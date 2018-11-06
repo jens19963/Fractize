@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[B]New Interfaces[/B]
+Quest tab interface.
+Teleport interface.
+
+[B]Firemaking[/B]
+Now support most logs.
+Most logs now have their correct fire object ids.
+
+[B]Other[/B]
+Impleted a npc dropeditor tool + Started on npc drops.
+Started npc combat definitions.
+Moved home to Edgeville.
+Fixed all boss pet sizes.
+
+[IMG]https://i.gyazo.com/63ef24980bc8b827aae25defea64062b.png[/IMG]
+[IMG]https://i.gyazo.com/de37daf65dc3c9096f14a6977c978cf7.gif[/IMG]
+[IMG]https://i.gyazo.com/ae75b9a28cebbd04e41e943f5c3e8f42.gif[/IMG]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[B]Game Panel Updates[/B]
+Fixed server uptime.
+Playtime added.
+Current slayer task added.
+Added Quests button.
+
+[B]Others[/B]
+Scimitar attack & defence animations has been added.
+Fixed public quickchat packet.
+Sets a random "Bonus skill" each server restart which gives x2 xp.
+Lockxp command added (might make the text in game panel clickable later).
+[img]https://i.gyazo.com/9a3beb94ec03c955aa043cea88ffea9f.png[/img]
+[img]https://i.gyazo.com/3e20f571de4d4487f02fb7524fb1af26.png[/img]
+
+
+
+
+
+
+
+
+
+[B]Added pets[/B]
+Chaos ele jr. Rate 1/300
+All 3 dagannoth kings. Rate 1/1500
+Dark core. Rate 1/2500
+All 4 godwars pets. Rate 1/2500
+Prince black dragon. Rate 1/1500
+TzRek-jad. Rate 1/200
+
+[B]Others[/B]
+Game Panel (custom interface).
+Packed more crown sprites.
+Removed "This isn't your pet!" text.
+
+[img]https://i.gyazo.com/dd66b978b6c84f8c06cbb8ec3efdcff0.png[/img]
+[img]https://i.gyazo.com/22ad503bde5675c5811b555ef355a0b8.png[/img]
+
+
+
+
+
+
+
+
+
+
+[B]Added pets[/B]
+Baby mole 12646 , Rate: 1/1500
+Kalphite princess (both phases) , Rate: 1/1500
+
+[B]Frosty's cache editor updates[/B]
+NPC Editor finished. (Fixed the -1 combat lvl, Re-size fixed, Visible & Invisible on minimap, now shows the correct amount of npcs in the cache)
+
+[B]Others[/B]
+Setting followers/pets now works.
+Packed some missing xteas.
+All the snippets by Jordan added.
