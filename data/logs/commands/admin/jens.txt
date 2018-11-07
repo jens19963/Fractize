@@ -1,0 +1,593 @@
+[24 juni 2018 at 02:21:06 CEST] - ::tele 3185 3936
+[24 juni 2018 at 05:07:41 CEST] - ::item 1712
+[24 juni 2018 at 05:07:47 CEST] - ::tele 0,49,61,43,26
+[24 juni 2018 at 05:07:55 CEST] - ::item 8007
+[19 oktober 2018 at 01:10:06 CEST] - ::tele 0,49,53,37,39
+[19 oktober 2018 at 01:10:26 CEST] - ::tele 0,49,61,56,26
+[19 oktober 2018 at 01:10:41 CEST] - ::coords 
+[26 oktober 2018 at 04:47:35 CEST] - ::emote 0
+[26 oktober 2018 at 04:47:37 CEST] - ::emote 1
+[26 oktober 2018 at 04:47:40 CEST] - ::anim 0
+[26 oktober 2018 at 04:55:30 CEST] - ::emote 0
+[26 oktober 2018 at 04:55:34 CEST] - ::emote 1
+[26 oktober 2018 at 04:55:51 CEST] - ::emote 0
+[26 oktober 2018 at 04:55:56 CEST] - ::emote 0
+[26 oktober 2018 at 05:03:24 CEST] - ::tele 0,49,61,59,21
+[26 oktober 2018 at 05:03:30 CEST] - ::tele 0,49,61,54,25
+[26 oktober 2018 at 05:03:33 CEST] - ::coords 
+[26 oktober 2018 at 06:53:53 CEST] - ::emote 12835
+[26 oktober 2018 at 06:53:57 CEST] - ::anim 12835
+[26 oktober 2018 at 06:54:00 CEST] - ::animation 12835
+[26 oktober 2018 at 06:54:03 CEST] - ::emote 12835
+[26 oktober 2018 at 06:54:12 CEST] - ::anim 585
+[26 oktober 2018 at 06:54:15 CEST] - ::emote 585
+[26 oktober 2018 at 06:54:19 CEST] - ::emote -1
+[26 oktober 2018 at 06:58:06 CEST] - ::emote 12836
+[26 oktober 2018 at 07:02:08 CEST] - ::emote 12838
+[26 oktober 2018 at 07:03:55 CEST] - ::emote 12838
+[26 oktober 2018 at 07:05:04 CEST] - ::item 15517
+[26 oktober 2018 at 07:05:09 CEST] - ::item 15518
+[26 oktober 2018 at 07:05:14 CEST] - ::item 15519
+[26 oktober 2018 at 07:05:18 CEST] - ::item 15520
+[26 oktober 2018 at 07:05:23 CEST] - ::item 15521
+[26 oktober 2018 at 07:05:28 CEST] - ::item 15522
+[26 oktober 2018 at 07:05:31 CEST] - ::item 15523
+[26 oktober 2018 at 07:05:35 CEST] - ::item 15524
+[26 oktober 2018 at 07:05:38 CEST] - ::item 15525
+[26 oktober 2018 at 07:05:44 CEST] - ::item 15526
+[26 oktober 2018 at 07:05:48 CEST] - ::item 15527
+[26 oktober 2018 at 07:05:52 CEST] - ::item 15528
+[26 oktober 2018 at 07:05:55 CEST] - ::item 15529
+[26 oktober 2018 at 07:05:59 CEST] - ::item 15530
+[26 oktober 2018 at 07:12:18 CEST] - ::ITEM 21512
+[26 oktober 2018 at 07:59:47 CEST] - ::npc 9631
+[26 oktober 2018 at 11:10:15 CEST] - ::update 30
+[26 oktober 2018 at 11:10:28 CEST] - ::players 
+[26 oktober 2018 at 11:10:31 CEST] - ::restart 11
+[26 oktober 2018 at 11:11:10 CEST] - ::shutdown 
+[26 oktober 2018 at 11:11:59 CEST] - ::shutdown 11
+[26 oktober 2018 at 11:13:35 CEST] - ::restart 60
+[26 oktober 2018 at 11:13:45 CEST] - ::update 33
+[26 oktober 2018 at 11:13:49 CEST] - ::shutdown 33
+[26 oktober 2018 at 11:16:27 CEST] - ::update 35
+[27 oktober 2018 at 12:25:21 CEST] - ::item 15517
+[27 oktober 2018 at 12:25:43 CEST] - ::npc 5559
+[27 oktober 2018 at 12:26:17 CEST] - ::item 15517
+[27 oktober 2018 at 12:35:25 CEST] - ::npc 9665
+[27 oktober 2018 at 12:45:28 CEST] - ::item 15517
+[27 oktober 2018 at 12:47:45 CEST] - ::npc 9635
+[27 oktober 2018 at 12:47:55 CEST] - ::item 15517
+[27 oktober 2018 at 12:47:58 CEST] - ::item 15517
+[27 oktober 2018 at 02:22:11 CEST] - ::tele 0,50,50,25,20
+[28 oktober 2018 at 10:00:19 CET] - ::yell img4
+[28 oktober 2018 at 10:00:27 CET] - ::yell <img=4>
+[28 oktober 2018 at 10:01:09 CET] - ::yell <img=4><img=5><img=6><img=7><img=8><img=9><img=10>
+[28 oktober 2018 at 10:01:42 CET] - ::yell <img=11><img=12><img=13><img=14><img=15><img=16>
+[28 oktober 2018 at 01:03:17 CET] - ::inter 190
+[28 oktober 2018 at 01:39:14 CET] - ::lockxp 
+[28 oktober 2018 at 01:39:22 CET] - ::lockxp 
+[28 oktober 2018 at 01:42:27 CET] - ::lockxp 
+[28 oktober 2018 at 01:43:22 CET] - ::item 6570
+[28 oktober 2018 at 01:43:24 CET] - ::item 6585
+[28 oktober 2018 at 01:43:37 CET] - ::lockxp 
+[28 oktober 2018 at 02:05:48 CET] - ::bank 
+[28 oktober 2018 at 02:05:53 CET] - ::item 526
+[28 oktober 2018 at 02:05:56 CET] - ::item 528
+[28 oktober 2018 at 02:06:00 CET] - ::item 2859
+[28 oktober 2018 at 02:06:04 CET] - ::item 3183
+[28 oktober 2018 at 02:06:07 CET] - ::item 530
+[28 oktober 2018 at 02:06:11 CET] - ::item 532
+[28 oktober 2018 at 02:06:16 CET] - ::item 3125
+[28 oktober 2018 at 02:06:20 CET] - ::item 4812
+[28 oktober 2018 at 02:06:24 CET] - ::item 3123
+[28 oktober 2018 at 02:06:29 CET] - ::item 534
+[28 oktober 2018 at 02:06:33 CET] - ::item 6812
+[28 oktober 2018 at 02:06:43 CET] - ::item 536
+[28 oktober 2018 at 02:06:47 CET] - ::item 4830
+[28 oktober 2018 at 02:06:50 CET] - ::item 4832
+[28 oktober 2018 at 02:06:58 CET] - ::item 6729
+[28 oktober 2018 at 02:07:04 CET] - ::item 4834
+[28 oktober 2018 at 02:07:08 CET] - ::item 18830
+[28 oktober 2018 at 05:08:18 CET] - ::item 6585
+[28 oktober 2018 at 05:08:20 CET] - ::item 6570
+[28 oktober 2018 at 05:14:17 CET] - ::item 686
+[28 oktober 2018 at 05:14:19 CET] - ::item 6585
+[28 oktober 2018 at 05:14:21 CET] - ::item 6570
+[28 oktober 2018 at 05:16:31 CET] - ::item 6570
+[28 oktober 2018 at 05:16:33 CET] - ::item 6585
+[28 oktober 2018 at 05:16:34 CET] - ::item 1323
+[28 oktober 2018 at 05:17:53 CET] - ::npc 708
+[28 oktober 2018 at 05:31:38 CET] - ::npc 708
+[28 oktober 2018 at 05:38:05 CET] - ::item 528 10
+[28 oktober 2018 at 05:48:18 CET] - ::tele 0,50,50,10,17
+[28 oktober 2018 at 05:48:19 CET] - ::tele 0,49,50,60,16
+[28 oktober 2018 at 05:48:20 CET] - ::tele 0,49,50,56,28
+[28 oktober 2018 at 05:48:58 CET] - ::item 5341
+[28 oktober 2018 at 05:49:55 CET] - ::setlevel 5 1
+[28 oktober 2018 at 05:50:00 CET] - ::item 530 20
+[28 oktober 2018 at 05:55:44 CET] - ::killme 
+[28 oktober 2018 at 05:57:24 CET] - ::gfx 199
+[28 oktober 2018 at 05:57:36 CET] - ::killme 
+[28 oktober 2018 at 06:20:14 CET] - ::setlevel 5 1
+[28 oktober 2018 at 06:22:20 CET] - ::killme 
+[28 oktober 2018 at 06:22:38 CET] - ::inter 740
+[28 oktober 2018 at 08:21:53 CET] - ::displayfps 
+[28 oktober 2018 at 09:12:35 CET] - ::showxp 
+[28 oktober 2018 at 09:54:15 CET] - ::tele 2269 3070
+[28 oktober 2018 at 10:28:17 CET] - ::tele 0,35,48,10,2
+[28 oktober 2018 at 10:28:18 CET] - ::tele 0,34,48,61,2
+[28 oktober 2018 at 10:28:19 CET] - ::tele 0,34,48,48,2
+[28 oktober 2018 at 10:28:20 CET] - ::tele 0,34,48,34,2
+[28 oktober 2018 at 10:28:23 CET] - ::tele 0,34,47,26,63
+[28 oktober 2018 at 10:28:25 CET] - ::tele 0,34,47,20,55
+[28 oktober 2018 at 10:28:26 CET] - ::tele 0,34,47,20,49
+[28 oktober 2018 at 10:28:34 CET] - ::tele 0,34,47,22,43
+[28 oktober 2018 at 10:28:35 CET] - ::tele 0,34,47,25,39
+[28 oktober 2018 at 10:28:41 CET] - ::tele 0,34,47,28,47
+[28 oktober 2018 at 10:28:43 CET] - ::tele 0,34,47,17,54
+[28 oktober 2018 at 10:28:44 CET] - ::tele 0,34,47,8,52
+[28 oktober 2018 at 10:28:46 CET] - ::tele 0,34,47,1,55
+[28 oktober 2018 at 10:28:47 CET] - ::tele 0,33,47,58,63
+[28 oktober 2018 at 10:28:49 CET] - ::tele 0,33,48,44,4
+[28 oktober 2018 at 10:28:51 CET] - ::tele 0,33,48,52,3
+[28 oktober 2018 at 10:28:52 CET] - ::tele 0,33,47,60,63
+[28 oktober 2018 at 10:28:52 CET] - ::tele 0,34,47,4,59
+[28 oktober 2018 at 10:28:53 CET] - ::tele 0,34,47,12,52
+[28 oktober 2018 at 10:30:32 CET] - ::coords 
+[28 oktober 2018 at 10:30:48 CET] - ::tele 0,34,47,18,62
+[28 oktober 2018 at 10:30:49 CET] - ::tele 0,34,48,16,8
+[28 oktober 2018 at 10:30:49 CET] - ::tele 0,34,48,14,19
+[28 oktober 2018 at 10:30:51 CET] - ::tele 0,34,48,12,8
+[28 oktober 2018 at 10:30:51 CET] - ::tele 0,34,47,10,60
+[28 oktober 2018 at 10:30:52 CET] - ::tele 0,34,47,13,50
+[28 oktober 2018 at 10:30:59 CET] - ::tele 0,34,47,24,49
+[29 oktober 2018 at 12:25:50 CET] - ::coords 
+[29 oktober 2018 at 12:25:59 CET] - ::tele 0,34,47,44,42
+[29 oktober 2018 at 12:26:00 CET] - ::tele 0,34,47,59,38
+[29 oktober 2018 at 12:26:00 CET] - ::tele 0,35,47,10,38
+[29 oktober 2018 at 12:26:03 CET] - ::tele 0,35,47,24,42
+[29 oktober 2018 at 12:26:04 CET] - ::tele 0,35,47,29,58
+[29 oktober 2018 at 12:26:06 CET] - ::tele 0,35,47,28,60
+[29 oktober 2018 at 12:26:08 CET] - ::coords 
+[29 oktober 2018 at 12:26:09 CET] - ::tele 0,35,47,25,63
+[29 oktober 2018 at 12:26:11 CET] - ::coords 
+[29 oktober 2018 at 12:26:14 CET] - ::tele 0,35,48,24,2
+[29 oktober 2018 at 12:26:17 CET] - ::coords 
+[29 oktober 2018 at 12:27:15 CET] - ::tele 0,35,47,25,63
+[29 oktober 2018 at 12:27:16 CET] - ::tele 0,35,48,24,0
+[29 oktober 2018 at 03:17:37 CET] - ::item 4155
+[29 oktober 2018 at 05:01:01 CET] - ::tonpc 708
+[29 oktober 2018 at 05:01:08 CET] - ::tele 0,50,50,8,22
+[29 oktober 2018 at 05:01:10 CET] - ::tele 0,50,50,7,22
+[29 oktober 2018 at 05:01:18 CET] - ::emote 169
+[29 oktober 2018 at 05:01:24 CET] - ::eote 170
+[29 oktober 2018 at 05:01:29 CET] - ::emote 170
+[29 oktober 2018 at 05:01:34 CET] - ::emote 172
+[29 oktober 2018 at 05:01:39 CET] - ::tonpc -1
+[29 oktober 2018 at 05:01:41 CET] - ::tele 0,50,50,19,22
+[29 oktober 2018 at 05:03:52 CET] - ::emote 15074
+[29 oktober 2018 at 05:04:03 CET] - ::emote 11974
+[29 oktober 2018 at 05:04:10 CET] - ::emote 388
+[29 oktober 2018 at 05:04:17 CET] - ::emote 388
+[29 oktober 2018 at 05:04:21 CET] - ::emote 388
+[29 oktober 2018 at 05:11:27 CET] - ::emote 12003
+[29 oktober 2018 at 05:11:56 CET] - ::emote 412
+[29 oktober 2018 at 05:12:03 CET] - ::emote 451
+[29 oktober 2018 at 05:12:50 CET] - ::emote 400
+[29 oktober 2018 at 05:12:53 CET] - ::emote 401
+[29 oktober 2018 at 05:12:56 CET] - ::emote 402
+[29 oktober 2018 at 05:12:59 CET] - ::emote 403
+[29 oktober 2018 at 05:13:02 CET] - ::emote 404
+[29 oktober 2018 at 05:13:04 CET] - ::emote 405
+[29 oktober 2018 at 05:13:07 CET] - ::emote 406
+[29 oktober 2018 at 05:13:11 CET] - ::emote 407
+[29 oktober 2018 at 05:13:14 CET] - ::emote 408
+[29 oktober 2018 at 05:13:17 CET] - ::emote 409
+[29 oktober 2018 at 05:13:22 CET] - ::emote 410
+[29 oktober 2018 at 05:13:25 CET] - ::emote 411
+[29 oktober 2018 at 05:13:27 CET] - ::emote 412
+[29 oktober 2018 at 05:13:30 CET] - ::emote 413
+[29 oktober 2018 at 05:13:34 CET] - ::emote 414
+[29 oktober 2018 at 05:13:38 CET] - ::emote 415
+[29 oktober 2018 at 05:14:06 CET] - ::emote 7048
+[29 oktober 2018 at 05:15:47 CET] - ::emote 412
+[29 oktober 2018 at 05:21:11 CET] - ::lvlup 
+[29 oktober 2018 at 05:21:16 CET] - ::lvlup 
+[29 oktober 2018 at 05:25:31 CET] - ::lvlup 
+[29 oktober 2018 at 05:25:36 CET] - ::lvlup 
+[29 oktober 2018 at 05:28:43 CET] - ::npc 
+[29 oktober 2018 at 05:28:48 CET] - ::npc 4296
+[29 oktober 2018 at 05:31:53 CET] - ::levelup 
+[29 oktober 2018 at 05:31:55 CET] - ::lvlup 
+[29 oktober 2018 at 05:32:45 CET] - ::npc 2745
+[29 oktober 2018 at 05:34:53 CET] - ::npc 2745
+[29 oktober 2018 at 05:34:53 CET] - ::tele 0,50,50,36,20
+[29 oktober 2018 at 05:36:08 CET] - ::tele 0,50,50,34,26
+[29 oktober 2018 at 05:36:09 CET] - ::tele 0,50,50,35,23
+[29 oktober 2018 at 05:36:12 CET] - ::npc 2745
+[29 oktober 2018 at 05:43:06 CET] - ::npc 2745
+[29 oktober 2018 at 05:45:18 CET] - ::npc 2745
+[29 oktober 2018 at 05:46:47 CET] - ::npc 2745
+[29 oktober 2018 at 07:44:26 CET] - ::tele 0,50,50,46,25
+[29 oktober 2018 at 07:44:27 CET] - ::tele 0,50,50,56,29
+[29 oktober 2018 at 07:44:39 CET] - ::tele 0,51,50,5,28
+[29 oktober 2018 at 07:44:42 CET] - ::tele 0,51,50,15,25
+[29 oktober 2018 at 07:44:50 CET] - ::npc 9668
+[29 oktober 2018 at 07:44:54 CET] - ::tele 0,51,50,14,27
+[29 oktober 2018 at 07:45:01 CET] - ::tonpc 9667
+[29 oktober 2018 at 07:45:08 CET] - ::render 1708
+[29 oktober 2018 at 07:45:10 CET] - ::render 1
+[29 oktober 2018 at 07:45:14 CET] - ::remote 1
+[29 oktober 2018 at 07:48:07 CET] - ::tonpc 9667
+[29 oktober 2018 at 07:48:20 CET] - ::remote 1708
+[29 oktober 2018 at 07:48:31 CET] - ::emote 5070
+[29 oktober 2018 at 07:48:48 CET] - ::tonpc 8639
+[29 oktober 2018 at 07:49:11 CET] - ::tonpc 9666
+[29 oktober 2018 at 07:49:22 CET] - ::emote 5070
+[29 oktober 2018 at 07:49:32 CET] - ::emote 12912
+[29 oktober 2018 at 07:49:47 CET] - ::remote 12912
+[29 oktober 2018 at 07:50:20 CET] - ::remote -1
+[29 oktober 2018 at 07:50:28 CET] - ::emote 12912
+[29 oktober 2018 at 07:50:57 CET] - ::emote 2757
+[29 oktober 2018 at 07:51:22 CET] - ::tonpc 8638
+[29 oktober 2018 at 07:51:31 CET] - ::remote 4
+[29 oktober 2018 at 07:52:17 CET] - ::tonpc 9666
+[29 oktober 2018 at 07:52:24 CET] - ::remote -1
+[29 oktober 2018 at 07:52:33 CET] - ::emote 12902
+[29 oktober 2018 at 07:52:44 CET] - ::emote 12903
+[29 oktober 2018 at 07:52:54 CET] - ::emote 12904
+[29 oktober 2018 at 07:53:01 CET] - ::emote 12905
+[29 oktober 2018 at 07:53:09 CET] - ::emote 12906
+[29 oktober 2018 at 07:53:22 CET] - ::remote 1703
+[29 oktober 2018 at 07:53:41 CET] - ::remote 12902
+[29 oktober 2018 at 07:53:51 CET] - ::remote 12903
+[29 oktober 2018 at 07:54:55 CET] - ::emote 813
+[29 oktober 2018 at 07:55:02 CET] - ::emote 12902
+[29 oktober 2018 at 07:59:23 CET] - ::tonpc 9666
+[29 oktober 2018 at 07:59:40 CET] - ::emote 12913
+[29 oktober 2018 at 07:59:45 CET] - ::remote 12913
+[29 oktober 2018 at 08:00:02 CET] - ::remote 2758
+[29 oktober 2018 at 08:00:10 CET] - ::emote 2758
+[29 oktober 2018 at 08:38:24 CET] - ::tele 0,50,50,20,21
+[29 oktober 2018 at 08:56:00 CET] - ::tonpc 9666
+[29 oktober 2018 at 08:56:04 CET] - ::emote 12914
+[29 oktober 2018 at 08:56:10 CET] - ::emote 2759
+[29 oktober 2018 at 08:56:16 CET] - ::remote 2759
+[29 oktober 2018 at 08:56:20 CET] - ::emote -1
+[29 oktober 2018 at 08:56:25 CET] - ::remote 12914
+[29 oktober 2018 at 08:56:35 CET] - ::emote 12914
+[29 oktober 2018 at 08:56:51 CET] - ::tonpc -1
+[29 oktober 2018 at 08:56:56 CET] - ::remote -1
+[29 oktober 2018 at 08:56:59 CET] - ::emote 12914
+[29 oktober 2018 at 08:57:05 CET] - ::remote 12914
+[29 oktober 2018 at 08:57:11 CET] - ::remote 2759
+[29 oktober 2018 at 08:57:15 CET] - ::remote -1
+[29 oktober 2018 at 09:01:32 CET] - ::tonpc 9666
+[29 oktober 2018 at 09:01:36 CET] - ::emote 12915
+[29 oktober 2018 at 09:01:44 CET] - ::emote 2760
+[29 oktober 2018 at 09:01:48 CET] - ::remote 2760
+[29 oktober 2018 at 09:01:55 CET] - ::remote 12915
+[29 oktober 2018 at 09:02:01 CET] - ::remote 1333
+[29 oktober 2018 at 09:02:16 CET] - ::remote -1
+[29 oktober 2018 at 09:02:27 CET] - ::tonpc -1
+[29 oktober 2018 at 09:02:30 CET] - ::emote 12915
+[29 oktober 2018 at 09:14:33 CET] - ::item 
+[29 oktober 2018 at 09:14:37 CET] - ::item 
+[29 oktober 2018 at 09:14:41 CET] - ::item 15528
+[29 oktober 2018 at 09:14:59 CET] - ::item 15529
+[29 oktober 2018 at 09:15:05 CET] - ::item 15527
+[29 oktober 2018 at 09:16:05 CET] - ::item 15528
+[29 oktober 2018 at 09:31:27 CET] - ::item 15528 1
+[29 oktober 2018 at 09:31:50 CET] - ::tele 0,50,50,24,19
+[30 oktober 2018 at 11:57:54 CET] - ::item 15517
+[30 oktober 2018 at 11:57:59 CET] - ::item 15518
+[30 oktober 2018 at 11:58:03 CET] - ::item 15519
+[30 oktober 2018 at 11:58:08 CET] - ::item 15520
+[30 oktober 2018 at 11:58:12 CET] - ::item 15521
+[30 oktober 2018 at 11:58:17 CET] - ::item 15522
+[30 oktober 2018 at 11:58:21 CET] - ::item 15523
+[30 oktober 2018 at 11:58:26 CET] - ::item 15524
+[30 oktober 2018 at 11:58:31 CET] - ::item 15525
+[30 oktober 2018 at 11:58:36 CET] - ::item 15526
+[30 oktober 2018 at 11:58:40 CET] - ::item 15527
+[30 oktober 2018 at 11:58:45 CET] - ::item 
+[30 oktober 2018 at 11:58:47 CET] - ::item 15528
+[30 oktober 2018 at 11:58:52 CET] - ::item 15529
+[30 oktober 2018 at 11:58:54 CET] - ::item 15530
+[30 oktober 2018 at 11:59:13 CET] - ::bank 
+[30 oktober 2018 at 12:13:41 CET] - ::bank 
+[30 oktober 2018 at 12:15:26 CET] - ::tele 0,36,49,34,35
+[30 oktober 2018 at 12:15:42 CET] - ::coords 
+[30 oktober 2018 at 12:17:42 CET] - ::tele 0,36,49,35,36
+[30 oktober 2018 at 12:18:17 CET] - ::tele 0,51,75,8,58
+[30 oktober 2018 at 12:18:26 CET] - ::coords 
+[30 oktober 2018 at 12:19:43 CET] - ::tele 0,51,75,6,43
+[30 oktober 2018 at 12:19:46 CET] - ::tele 0,51,75,17,35
+[30 oktober 2018 at 12:19:47 CET] - ::tele 0,51,75,29,30
+[30 oktober 2018 at 12:19:48 CET] - ::tele 0,51,75,42,27
+[30 oktober 2018 at 12:19:49 CET] - ::tele 0,51,75,49,16
+[30 oktober 2018 at 12:19:54 CET] - ::tele 0,51,75,39,9
+[30 oktober 2018 at 12:21:22 CET] - ::tele 0,48,54,24,39
+[30 oktober 2018 at 12:21:38 CET] - ::tele 0,48,54,21,40
+[30 oktober 2018 at 12:21:42 CET] - ::coords 
+[30 oktober 2018 at 12:23:46 CET] - ::coords 
+[30 oktober 2018 at 12:25:17 CET] - ::tele 0,48,54,4,62
+[30 oktober 2018 at 02:56:45 CET] - ::tele 0,48,54,14,42
+[30 oktober 2018 at 02:56:47 CET] - ::tele 0,48,54,13,43
+[30 oktober 2018 at 02:56:49 CET] - ::tele 0,48,54,12,43
+[30 oktober 2018 at 02:56:51 CET] - ::coords 
+[30 oktober 2018 at 05:30:40 CET] - ::tele 0,50,53,12,37
+[30 oktober 2018 at 05:31:00 CET] - ::coords 
+[30 oktober 2018 at 06:13:51 CET] - ::tele 0,46,52,22,54
+[30 oktober 2018 at 06:14:02 CET] - ::tele 0,46,52,22,56
+[30 oktober 2018 at 06:14:06 CET] - ::coords 
+[30 oktober 2018 at 06:15:25 CET] - ::tele 0,43,53,53,43
+[30 oktober 2018 at 06:15:39 CET] - ::coords 
+[30 oktober 2018 at 06:16:52 CET] - ::tele 0,50,50,23,19
+[30 oktober 2018 at 06:17:07 CET] - ::tele 0,50,50,22,19
+[30 oktober 2018 at 06:17:09 CET] - ::coords 
+[30 oktober 2018 at 06:18:13 CET] - ::tele 0,51,49,29,47
+[30 oktober 2018 at 06:18:24 CET] - ::coords 
+[30 oktober 2018 at 06:19:18 CET] - ::tele 0,36,59,16,26
+[30 oktober 2018 at 06:19:27 CET] - ::tele 0,36,59,29,27
+[30 oktober 2018 at 06:19:29 CET] - ::tele 0,36,59,28,27
+[30 oktober 2018 at 06:19:32 CET] - ::coords 
+[30 oktober 2018 at 06:20:31 CET] - ::tele 0,41,51,39,41
+[30 oktober 2018 at 06:20:43 CET] - ::coords 
+[30 oktober 2018 at 06:21:45 CET] - ::tele 0,40,48,44,25
+[30 oktober 2018 at 06:21:55 CET] - ::coords 
+[30 oktober 2018 at 06:22:49 CET] - ::coords 
+[30 oktober 2018 at 06:23:38 CET] - ::tele 0,45,49,37,39
+[30 oktober 2018 at 06:23:51 CET] - ::coords 
+[30 oktober 2018 at 06:24:29 CET] - ::tele 0,43,54,6,20
+[30 oktober 2018 at 06:24:39 CET] - ::tele 0,43,54,5,21
+[30 oktober 2018 at 06:24:43 CET] - ::coords 
+[30 oktober 2018 at 06:27:15 CET] - ::tele 0,41,58,51,3
+[30 oktober 2018 at 06:27:23 CET] - ::coords 
+[30 oktober 2018 at 06:27:56 CET] - ::tele 0,36,59,21,20
+[30 oktober 2018 at 06:28:05 CET] - ::coords 
+[30 oktober 2018 at 06:32:47 CET] - ::tele 3555 9947
+[30 oktober 2018 at 06:33:31 CET] - ::tele 0,50,48,32,34
+[30 oktober 2018 at 06:33:38 CET] - ::tele 0,50,48,30,35
+[30 oktober 2018 at 06:33:40 CET] - ::coords 
+[30 oktober 2018 at 06:34:10 CET] - ::tele 0,49,46,37,38
+[30 oktober 2018 at 06:34:18 CET] - ::coords 
+[30 oktober 2018 at 06:36:52 CET] - ::tele 0,38,158,16,34
+[30 oktober 2018 at 06:36:57 CET] - ::tele 0,38,158,12,35
+[30 oktober 2018 at 06:36:59 CET] - ::coords 
+[30 oktober 2018 at 06:39:38 CET] - ::tele 0,58,146,34,30
+[30 oktober 2018 at 06:39:43 CET] - ::tele 0,58,146,33,30
+[30 oktober 2018 at 06:39:44 CET] - ::coords 
+[30 oktober 2018 at 06:40:55 CET] - ::tele 0,36,49,34,34
+[30 oktober 2018 at 06:41:14 CET] - ::tele 0,36,49,32,36
+[30 oktober 2018 at 06:41:15 CET] - ::tele 0,36,49,31,36
+[30 oktober 2018 at 06:41:17 CET] - ::coords 
+[30 oktober 2018 at 06:41:54 CET] - ::tele 0,45,153,35,11
+[30 oktober 2018 at 06:42:00 CET] - ::tele 0,45,153,22,10
+[30 oktober 2018 at 06:42:01 CET] - ::tele 0,45,153,13,6
+[30 oktober 2018 at 06:42:03 CET] - ::tele 0,45,153,14,5
+[30 oktober 2018 at 06:42:06 CET] - ::coords 
+[30 oktober 2018 at 06:42:54 CET] - ::tele 0,49,86,41,39
+[30 oktober 2018 at 06:43:00 CET] - ::coords 
+[30 oktober 2018 at 06:45:22 CET] - ::tele 0,46,52,54,46
+[30 oktober 2018 at 06:45:31 CET] - ::coords 
+[30 oktober 2018 at 06:46:15 CET] - ::tele 0,39,158,50,26
+[30 oktober 2018 at 06:46:18 CET] - ::tele 0,39,158,49,30
+[30 oktober 2018 at 06:46:20 CET] - ::tele 0,39,158,49,31
+[30 oktober 2018 at 06:46:23 CET] - ::coords 
+[30 oktober 2018 at 06:47:41 CET] - ::tele 0,54,148,51,22
+[30 oktober 2018 at 06:47:49 CET] - ::coords 
+[30 oktober 2018 at 06:48:26 CET] - ::tele 0,45,58,43,34
+[30 oktober 2018 at 06:48:36 CET] - ::tele 0,45,58,47,48
+[30 oktober 2018 at 06:48:38 CET] - ::tele 0,45,58,34,43
+[30 oktober 2018 at 06:48:40 CET] - ::tele 0,45,58,24,45
+[30 oktober 2018 at 06:48:41 CET] - ::tele 0,45,58,28,30
+[30 oktober 2018 at 06:48:43 CET] - ::tele 0,45,58,31,18
+[30 oktober 2018 at 06:48:44 CET] - ::tele 0,45,58,33,10
+[30 oktober 2018 at 06:48:46 CET] - ::tele 0,45,58,45,7
+[30 oktober 2018 at 06:48:47 CET] - ::tele 0,45,58,55,14
+[30 oktober 2018 at 06:48:48 CET] - ::tele 0,45,58,56,27
+[30 oktober 2018 at 06:48:49 CET] - ::tele 0,45,58,55,42
+[30 oktober 2018 at 06:48:50 CET] - ::tele 0,45,58,55,54
+[30 oktober 2018 at 06:48:55 CET] - ::tele 0,46,58,2,56
+[30 oktober 2018 at 06:48:57 CET] - ::tele 0,45,58,50,50
+[30 oktober 2018 at 06:48:58 CET] - ::tele 0,45,58,42,37
+[30 oktober 2018 at 06:49:00 CET] - ::tele 0,45,58,31,33
+[30 oktober 2018 at 06:49:12 CET] - ::tele 0,45,58,18,2
+[30 oktober 2018 at 06:49:14 CET] - ::tele 0,45,58,18,0
+[30 oktober 2018 at 06:49:18 CET] - ::coords 
+[30 oktober 2018 at 06:51:06 CET] - ::tele 2922 4384
+[30 oktober 2018 at 06:51:10 CET] - ::tele 0,45,68,56,30
+[30 oktober 2018 at 06:51:10 CET] - ::tele 0,46,68,6,27
+[30 oktober 2018 at 06:51:11 CET] - ::tele 0,46,68,13,30
+[30 oktober 2018 at 06:51:12 CET] - ::tele 0,45,68,62,29
+[30 oktober 2018 at 06:51:13 CET] - ::tele 0,45,68,46,29
+[30 oktober 2018 at 06:51:15 CET] - ::tele 0,45,68,42,32
+[30 oktober 2018 at 06:51:16 CET] - ::tele 0,45,68,30,34
+[30 oktober 2018 at 06:51:17 CET] - ::tele 0,45,68,18,36
+[30 oktober 2018 at 06:51:18 CET] - ::tele 0,45,68,24,32
+[30 oktober 2018 at 06:51:20 CET] - ::tele 0,45,68,35,35
+[30 oktober 2018 at 06:51:21 CET] - ::tele 0,45,68,50,38
+[30 oktober 2018 at 06:51:22 CET] - ::tele 0,45,68,62,38
+[30 oktober 2018 at 06:51:22 CET] - ::tele 0,46,68,12,34
+[30 oktober 2018 at 06:51:23 CET] - ::tele 0,46,68,24,32
+[30 oktober 2018 at 06:51:25 CET] - ::tele 0,46,68,35,32
+[30 oktober 2018 at 06:51:27 CET] - ::tele 0,46,68,46,30
+[30 oktober 2018 at 06:51:28 CET] - ::tele 0,46,68,31,33
+[30 oktober 2018 at 06:51:30 CET] - ::tele 0,46,68,15,33
+[30 oktober 2018 at 06:51:31 CET] - ::tele 0,46,68,1,45
+[30 oktober 2018 at 06:51:32 CET] - ::tele 0,45,68,54,35
+[30 oktober 2018 at 06:51:33 CET] - ::tele 0,45,68,41,32
+[30 oktober 2018 at 06:51:34 CET] - ::tele 0,45,68,29,32
+[30 oktober 2018 at 06:51:35 CET] - ::tele 0,45,68,17,35
+[30 oktober 2018 at 06:51:36 CET] - ::tele 0,45,68,10,48
+[30 oktober 2018 at 06:51:37 CET] - ::tele 0,45,68,21,54
+[30 oktober 2018 at 06:51:38 CET] - ::tele 0,45,68,17,45
+[30 oktober 2018 at 06:51:40 CET] - ::tele 0,45,68,11,31
+[30 oktober 2018 at 06:51:41 CET] - ::tele 0,45,68,5,23
+[30 oktober 2018 at 06:51:44 CET] - ::tele 0,45,68,16,33
+[30 oktober 2018 at 06:51:46 CET] - ::tele 0,45,68,29,40
+[30 oktober 2018 at 06:51:47 CET] - ::tele 0,45,68,36,36
+[30 oktober 2018 at 06:51:48 CET] - ::tele 0,45,68,47,31
+[30 oktober 2018 at 06:51:49 CET] - ::tele 0,45,68,56,29
+[30 oktober 2018 at 06:51:50 CET] - ::tele 0,45,68,59,41
+[30 oktober 2018 at 06:51:52 CET] - ::tele 0,46,68,2,47
+[30 oktober 2018 at 06:51:55 CET] - ::tele 0,46,68,1,35
+[30 oktober 2018 at 06:51:55 CET] - ::tele 0,46,68,8,26
+[30 oktober 2018 at 06:51:57 CET] - ::tele 0,46,68,17,29
+[30 oktober 2018 at 06:51:58 CET] - ::tele 0,46,68,27,34
+[30 oktober 2018 at 06:51:58 CET] - ::tele 0,46,68,39,35
+[30 oktober 2018 at 06:52:00 CET] - ::tele 0,46,68,47,31
+[30 oktober 2018 at 06:52:02 CET] - ::tele 0,46,68,51,31
+[30 oktober 2018 at 06:52:03 CET] - ::tele 0,46,68,61,31
+[30 oktober 2018 at 06:52:04 CET] - ::tele 0,47,68,6,28
+[30 oktober 2018 at 06:52:10 CET] - ::tele 0,47,68,15,25
+[30 oktober 2018 at 06:52:12 CET] - ::tele 0,47,68,26,25
+[30 oktober 2018 at 06:52:13 CET] - ::tele 0,47,68,13,30
+[30 oktober 2018 at 06:52:20 CET] - ::tele 0,47,68,1,32
+[30 oktober 2018 at 06:52:21 CET] - ::tele 0,46,68,51,34
+[30 oktober 2018 at 06:52:22 CET] - ::tele 0,46,68,37,30
+[30 oktober 2018 at 06:52:23 CET] - ::tele 0,46,68,42,21
+[30 oktober 2018 at 06:52:28 CET] - ::tele 0,46,68,33,30
+[30 oktober 2018 at 06:52:29 CET] - ::tele 0,46,68,20,33
+[30 oktober 2018 at 06:52:30 CET] - ::tele 0,46,68,5,33
+[30 oktober 2018 at 06:52:30 CET] - ::tele 0,45,68,54,33
+[30 oktober 2018 at 06:52:31 CET] - ::tele 0,45,68,38,33
+[30 oktober 2018 at 06:52:33 CET] - ::tele 0,45,68,36,32
+[30 oktober 2018 at 06:52:36 CET] - ::tele 0,45,68,36,33
+[30 oktober 2018 at 06:52:37 CET] - ::tele 0,45,68,35,33
+[30 oktober 2018 at 06:52:40 CET] - ::coords 
+[30 oktober 2018 at 06:53:34 CET] - ::tele 0,46,60,58,9
+[30 oktober 2018 at 06:53:45 CET] - ::tele 0,47,60,4,7
+[30 oktober 2018 at 06:53:48 CET] - ::coords 
+[30 oktober 2018 at 06:54:15 CET] - ::tele 0,46,60,56,6
+[30 oktober 2018 at 06:54:30 CET] - ::tele 0,51,61,26,9
+[30 oktober 2018 at 06:54:37 CET] - ::tele 0,51,61,14,12
+[30 oktober 2018 at 06:54:38 CET] - ::tele 0,51,61,1,18
+[30 oktober 2018 at 06:54:39 CET] - ::tele 0,50,61,59,25
+[30 oktober 2018 at 06:54:41 CET] - ::tele 0,50,61,58,19
+[30 oktober 2018 at 06:54:42 CET] - ::tele 0,50,61,49,13
+[30 oktober 2018 at 06:54:44 CET] - ::tele 0,50,61,38,11
+[30 oktober 2018 at 06:54:45 CET] - ::tele 0,50,61,42,9
+[30 oktober 2018 at 06:54:46 CET] - ::tele 0,50,61,53,7
+[30 oktober 2018 at 06:54:46 CET] - ::tele 0,51,61,0,5
+[30 oktober 2018 at 06:54:48 CET] - ::tele 0,51,61,14,5
+[30 oktober 2018 at 06:54:49 CET] - ::tele 0,51,61,28,5
+[30 oktober 2018 at 06:54:50 CET] - ::tele 0,51,61,35,10
+[30 oktober 2018 at 06:54:55 CET] - ::coords 
+[30 oktober 2018 at 06:59:00 CET] - ::coords 
+[30 oktober 2018 at 07:09:18 CET] - ::coords 
+[30 oktober 2018 at 07:12:23 CET] - ::coords 
+[30 oktober 2018 at 07:21:46 CET] - ::coords 
+[30 oktober 2018 at 07:22:07 CET] - ::tele 0,49,61,55,22
+[30 oktober 2018 at 07:22:15 CET] - ::tele 0,49,61,53,23
+[30 oktober 2018 at 07:22:18 CET] - ::coords 
+[30 oktober 2018 at 07:24:41 CET] - ::coords 
+[30 oktober 2018 at 08:26:08 CET] - ::tele 0,34,48,59,3
+[30 oktober 2018 at 08:26:10 CET] - ::tele 0,35,48,2,2
+[30 oktober 2018 at 08:26:20 CET] - ::tele 0,34,47,57,54
+[30 oktober 2018 at 08:26:23 CET] - ::tele 0,34,47,55,39
+[30 oktober 2018 at 08:26:23 CET] - ::tele 0,34,47,53,25
+[30 oktober 2018 at 08:26:26 CET] - ::tele 0,34,47,61,17
+[30 oktober 2018 at 08:26:27 CET] - ::tele 0,35,47,6,21
+[30 oktober 2018 at 08:26:28 CET] - ::tele 0,35,47,12,29
+[30 oktober 2018 at 08:26:29 CET] - ::tele 0,35,47,24,30
+[30 oktober 2018 at 08:26:30 CET] - ::tele 0,35,47,37,30
+[30 oktober 2018 at 08:26:32 CET] - ::tele 0,35,47,41,36
+[30 oktober 2018 at 08:26:33 CET] - ::tele 0,35,47,40,44
+[30 oktober 2018 at 08:26:34 CET] - ::tele 0,35,47,32,38
+[30 oktober 2018 at 08:26:35 CET] - ::tele 0,35,47,20,34
+[30 oktober 2018 at 08:26:35 CET] - ::tele 0,35,47,8,30
+[30 oktober 2018 at 08:26:36 CET] - ::tele 0,34,47,58,27
+[30 oktober 2018 at 08:26:36 CET] - ::tele 0,34,47,44,24
+[30 oktober 2018 at 08:26:38 CET] - ::tele 0,34,47,33,25
+[30 oktober 2018 at 08:26:39 CET] - ::tele 0,34,47,26,35
+[30 oktober 2018 at 08:26:40 CET] - ::tele 0,34,47,25,46
+[30 oktober 2018 at 08:26:48 CET] - ::coords 
+[30 oktober 2018 at 08:28:54 CET] - ::tele 0,34,47,29,49
+[30 oktober 2018 at 09:07:16 CET] - ::tele 0,34,47,19,54
+[30 oktober 2018 at 09:07:22 CET] - ::tele 0,34,47,32,48
+[30 oktober 2018 at 09:07:23 CET] - ::tele 0,34,47,41,55
+[30 oktober 2018 at 09:07:24 CET] - ::tele 0,34,47,57,52
+[30 oktober 2018 at 09:07:25 CET] - ::tele 0,35,47,6,54
+[30 oktober 2018 at 09:07:26 CET] - ::tele 0,35,47,19,56
+[30 oktober 2018 at 09:07:27 CET] - ::tele 0,35,47,26,61
+[30 oktober 2018 at 09:07:30 CET] - ::tele 0,35,47,28,62
+[30 oktober 2018 at 11:09:02 CET] - ::tele 0,36,59,13,17
+[30 oktober 2018 at 11:09:04 CET] - ::tele 0,36,59,13,16
+[30 oktober 2018 at 11:09:06 CET] - ::coords 
+[30 oktober 2018 at 11:09:21 CET] - ::tele 0,36,59,17,19
+[30 oktober 2018 at 11:09:23 CET] - ::coords 
+[30 oktober 2018 at 11:09:35 CET] - ::tele 0,36,59,21,20
+[30 oktober 2018 at 11:09:37 CET] - ::coords 
+[30 oktober 2018 at 11:09:48 CET] - ::tele 0,36,59,21,17
+[30 oktober 2018 at 11:09:52 CET] - ::coords 
+[30 oktober 2018 at 11:10:02 CET] - ::tele 0,36,59,18,13
+[30 oktober 2018 at 11:10:04 CET] - ::coords 
+[30 oktober 2018 at 11:19:34 CET] - ::tele 0,36,59,11,12
+[30 oktober 2018 at 11:19:38 CET] - ::tonpc 5529
+[30 oktober 2018 at 11:19:39 CET] - ::tele 0,36,59,12,11
+[30 oktober 2018 at 11:19:51 CET] - ::emote 580
+[30 oktober 2018 at 11:19:58 CET] - ::emote 580
+[30 oktober 2018 at 11:20:42 CET] - ::emote 5782
+[30 oktober 2018 at 11:20:54 CET] - ::emote 5783
+[30 oktober 2018 at 11:21:06 CET] - ::emote 5784
+[30 oktober 2018 at 11:22:55 CET] - ::tele 0,36,59,15,14
+[30 oktober 2018 at 11:24:06 CET] - ::tele 0,36,59,15,14
+[30 oktober 2018 at 11:24:21 CET] - ::item 1050 13
+[30 oktober 2018 at 11:25:57 CET] - ::tele 0,50,53,5,25
+[31 oktober 2018 at 09:44:52 CET] - ::bank 
+[31 oktober 2018 at 09:44:59 CET] - ::tele 0,50,53,4,37
+[31 oktober 2018 at 09:45:50 CET] - ::item 590
+[31 oktober 2018 at 09:47:42 CET] - ::tele 0,48,54,14,52
+[31 oktober 2018 at 09:47:49 CET] - ::tele 0,48,54,14,44
+[31 oktober 2018 at 09:48:33 CET] - ::item 1511
+[31 oktober 2018 at 09:48:40 CET] - ::item 1513
+[31 oktober 2018 at 09:48:46 CET] - ::item 1515
+[31 oktober 2018 at 09:48:51 CET] - ::item 1517
+[31 oktober 2018 at 09:48:57 CET] - ::item 1519
+[31 oktober 2018 at 09:49:03 CET] - ::item 1521
+[31 oktober 2018 at 09:49:10 CET] - ::item 2862
+[31 oktober 2018 at 09:49:17 CET] - ::item 3438
+[31 oktober 2018 at 09:49:23 CET] - ::item 3440
+[31 oktober 2018 at 09:49:28 CET] - ::item 3442
+[31 oktober 2018 at 09:49:39 CET] - ::item 7404
+[31 oktober 2018 at 09:49:44 CET] - ::item 7405
+[31 oktober 2018 at 09:49:49 CET] - ::item 7406
+[31 oktober 2018 at 09:49:54 CET] - ::item 10328
+[31 oktober 2018 at 09:56:34 CET] - ::item 1511 2
+[31 oktober 2018 at 10:10:20 CET] - ::obj 2732
+[31 oktober 2018 at 10:10:22 CET] - ::object 2732
+[31 oktober 2018 at 10:11:00 CET] - ::object 5249
+[31 oktober 2018 at 10:11:13 CET] - ::object 3109
+[31 oktober 2018 at 10:11:26 CET] - ::object 3769
+[31 oktober 2018 at 10:11:39 CET] - ::object 4265
+[31 oktober 2018 at 10:11:46 CET] - ::object 4266
+[31 oktober 2018 at 10:12:25 CET] - ::object 4766
+[31 oktober 2018 at 10:12:42 CET] - ::object 20000
+[31 oktober 2018 at 10:13:56 CET] - ::object 5249
+[31 oktober 2018 at 10:14:12 CET] - ::object 5499
+[31 oktober 2018 at 10:14:16 CET] - ::tele 0,48,54,8,46
+[31 oktober 2018 at 10:16:55 CET] - ::item 3125
+[31 oktober 2018 at 10:17:30 CET] - ::object 2732
+[01 november 2018 at 11:48:41 CET] - ::item 6570
+[01 november 2018 at 11:48:46 CET] - ::item 6585
+[01 november 2018 at 11:49:06 CET] - ::setlevel 1 50
+[01 november 2018 at 11:49:13 CET] - ::setlevel 1 1
+[01 november 2018 at 11:49:15 CET] - ::setlevel 2 50
+[01 november 2018 at 11:50:07 CET] - ::item 1 99
+[01 november 2018 at 11:50:11 CET] - ::setlevel 1 99
+[01 november 2018 at 11:50:12 CET] - ::empty 
+[01 november 2018 at 11:50:22 CET] - ::setlevel 2 99
+[01 november 2018 at 11:50:25 CET] - ::setlevel 1 1
+[01 november 2018 at 11:50:27 CET] - ::empty 
+[01 november 2018 at 11:50:49 CET] - ::tele 0,48,54,24,55
+[04 november 2018 at 11:13:36 CET] - ::item 15528
+[04 november 2018 at 11:13:49 CET] - ::item 15528 1
+[04 november 2018 at 11:17:52 CET] - ::item 15528 1
+[04 november 2018 at 11:23:03 CET] - ::item 15528
+[04 november 2018 at 11:42:45 CET] - ::item 15529
+[04 november 2018 at 11:42:53 CET] - ::item 15528 1
+[04 november 2018 at 12:24:33 CET] - ::item 1050
+[04 november 2018 at 12:30:18 CET] - ::tele 0,36,59,17,20
+[04 november 2018 at 03:23:02 CET] - ::tele 0,36,59,20,18
