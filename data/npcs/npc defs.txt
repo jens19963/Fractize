@@ -1,0 +1,3261 @@
+-Credits to RS Wiki, Rune-Server <3
+http://www.rune-server.org/members/rs+wiki/
+
+
+<list>
+	<npcDefinition>
+		<id>365</id>
+		<name>Paladin</name>
+		<combat>59</combat>
+		<hitpoints>55</hitpoints>
+		<maxHit>9</maxHit>
+    		<respawn>30</respawn>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+	
+	<npcDefinition>
+		<id>15001</id>
+		<name>Crazy PsYch0 Bitch</name>
+		<combat>621</combat>
+		<hitpoints>820</hitpoints>
+		<maxHit>30</maxHit>
+    		<respawn>90</respawn>
+		<attackSpeed>5</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>15238</deathAnim>
+	</npcDefinition>
+	
+	<npcDefinition>
+		<id>13451</id>
+		<name>Fumus</name>
+		<combat>59</combat>
+		<hitpoints>2000</hitpoints>
+		<maxHit>21</maxHit>
+    		<respawn>30</respawn>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+
+	<npcDefinition>
+		<id>13452</id>
+		<name>Umbra</name>
+		<combat>59</combat>
+		<hitpoints>2000</hitpoints>
+		<maxHit>21</maxHit>
+    		<respawn>30</respawn>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+	
+	<npcDefinition>
+		<id>13453</id>
+		<name>Cruor</name>
+		<combat>59</combat>
+		<hitpoints>2000</hitpoints>
+		<maxHit>21</maxHit>
+    		<respawn>30</respawn>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+	
+	<npcDefinition>
+		<id>13454</id>
+		<name>Glacies</name>
+		<combat>59</combat>
+		<hitpoints>2000</hitpoints>
+		<maxHit>21</maxHit>
+    		<respawn>30</respawn>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+	
+	<npcDefinition>
+		<id>13447</id>
+		<combatReq>110</combatReq>
+		<name>Nex</name>
+		<combat>1001</combat>
+		<hitpoints>10000</hitpoints>
+		<maxHit>42</maxHit>
+    		<respawn>23</respawn>
+		<attackSpeed>3</attackSpeed>
+		<attackAnim>6354</attackAnim>
+		<defenceAnim>6983</defenceAnim>
+		<deathAnim>6951</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>13448</id>
+		<combatReq>110</combatReq>
+		<name>Nex</name>
+		<combat>1001</combat>
+		<hitpoints>10000</hitpoints>
+		<maxHit>42</maxHit>
+    		<respawn>23</respawn>
+		<attackSpeed>3</attackSpeed>
+		<attackAnim>6354</attackAnim>
+		<defenceAnim>6983</defenceAnim>
+		<deathAnim>6951</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>10263</id>
+		<name>Forgotten Warrior</name>
+		<combat>41</combat>
+		<hitpoints>60</hitpoints>
+		<maxHit>1</maxHit>
+    		<respawn>19</respawn>
+		<attackSpeed>4</attackSpeed>
+		<attackAnim>7042</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>9463</id>
+		<slayerReq>93</slayerReq>
+		<name>Ice Strykewyrm</name>
+		<combat>210</combat>
+		<hitpoints>300</hitpoints>
+		<maxHit>36</maxHit>
+    		<respawn>60</respawn>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>12791</attackAnim>
+		<defenceAnim>12792</defenceAnim>
+		<deathAnim>12793</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>9465</id>
+		<slayerReq>77</slayerReq>
+		<name>Desert Strykewyrm</name>
+		<combat>210</combat>
+		<hitpoints>120</hitpoints>
+		<maxHit>23</maxHit>
+    		<respawn>60</respawn>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>12791</attackAnim>
+		<defenceAnim>12792</defenceAnim>
+		<deathAnim>12793</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>9467</id>
+		<slayerReq>73</slayerReq>
+		<name>Jungle Strykewyrm</name>
+		<combat>210</combat>
+		<hitpoints>110</hitpoints>
+		<maxHit>20</maxHit>
+    		<respawn>60</respawn>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>12791</attackAnim>
+		<defenceAnim>12792</defenceAnim>
+		<deathAnim>12793</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>10775</id>
+		<slayerReq>52</slayerReq>
+		<name>Frost Dragon</name>
+		<combat>210</combat>
+		<hitpoints>929</hitpoints>
+		<maxHit>42</maxHit>
+    		<respawn>90</respawn>
+		<attackSpeed>5</attackSpeed>
+		<attackAnim>13155</attackAnim>
+		<defenceAnim>13154</defenceAnim>
+		<deathAnim>13153</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>19</id>
+		<name>White Knight</name>
+		<combat>30</combat>
+		<hitpoints>80</hitpoints>
+		<maxHit>15</maxHit>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>1092</id>
+		<name>White Knight</name>
+		<combat>30</combat>
+		<hitpoints>80</hitpoints>
+		<maxHit>15</maxHit>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>3348</id>
+		<name>White Knight</name>
+		<combat>30</combat>
+		<hitpoints>80</hitpoints>
+		<maxHit>15</maxHit>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>3349</id>
+		<name>White Knight</name>
+		<combat>30</combat>
+		<hitpoints>80</hitpoints>
+		<maxHit>15</maxHit>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>3350</id>
+		<name>White Knight</name>
+		<combat>30</combat>
+		<hitpoints>80</hitpoints>
+		<maxHit>15</maxHit>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>7041</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>7344</id>
+		<name>steel titan</name>
+		<combat>230</combat>
+		<hitpoints>50</hitpoints>
+		<maxHit>2</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>8183</attackAnim>
+		<defenceAnim>8185</defenceAnim>
+		<deathAnim>8184</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>7340</id>
+		<name>geyser titan</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>20</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7879</attackAnim>
+		<defenceAnim>7878</defenceAnim>
+		<deathAnim>7880</deathAnim>
+	</npcDefinition>
+  <npcDefinition>
+    <id>7135</id>
+    <name>Ork Legion</name>
+    <examine>Ork Legion.</examine>
+    <respawn>30</respawn>
+    <combat>70</combat>
+    <hitpoints>50</hitpoints>
+    <maxHit>8</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>8760</attackAnim>
+    <defenceAnim>8762</defenceAnim>
+    <deathAnim>8761</deathAnim>
+  </npcDefinition>
+	<npcDefinition>
+		<id>6801</id>
+		<name>giant ent</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>17</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7853</attackAnim>
+		<defenceAnim>7852</defenceAnim>
+		<deathAnim>7854</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6805</id>
+		<name>spirit dagannoth</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>17</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7787</attackAnim>
+		<defenceAnim>7785</defenceAnim>
+		<deathAnim>7780</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>7356</id>
+		<name>fire titan</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>18</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7834</attackAnim>
+		<defenceAnim>7832</defenceAnim>
+		<deathAnim>7833</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>7358</id>
+		<name>moss titan</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>18</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7844</attackAnim>
+		<defenceAnim>7842</defenceAnim>
+		<deathAnim>7843</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>7360</id>
+		<name>ice titan</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>18</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7844</attackAnim>
+		<defenceAnim>7842</defenceAnim>
+		<deathAnim>7843</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>7376</id>
+		<name>iron titan</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>18</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7844</attackAnim>
+		<defenceAnim>7842</defenceAnim>
+		<deathAnim>7843</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6874</id>
+		<name>pack yack</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>8</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>5782</attackAnim>
+		<defenceAnim>5783</defenceAnim>
+		<deathAnim>5784</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>7350</id>
+		<name>abby titan</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>18</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7693</attackAnim>
+		<defenceAnim>7691</defenceAnim>
+		<deathAnim>7692</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6812</id>
+		<name>hydra</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>15</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7935</attackAnim>
+		<defenceAnim>7936</defenceAnim>
+		<deathAnim>7937</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6814</id>
+		<name>bunyip</name>
+		<combat>230</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>10</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7741</attackAnim>
+		<defenceAnim>7739</defenceAnim>
+		<deathAnim>7740</deathAnim>
+	</npcDefinition>
+    <npcDefinition>
+        <id>2783</id>
+        <name>Dark Beast</name>
+		<slayerReq>90</slayerReq>
+        <examine>Better be careful!</examine>
+        <respawn>10</respawn>
+        <combat>5</combat>
+        <hitpoints>225</hitpoints>
+        <maxHit>20</maxHit>
+        <attackSpeed>6</attackSpeed>
+        <attackAnim>2731</attackAnim>
+        <defenceAnim>2732</defenceAnim>
+        <deathAnim>2733</deathAnim>
+    </npcDefinition>
+	<npcDefinition>
+		<id>5529</id>
+		<name>yak</name>
+		<combat>22</combat>
+		<hitpoints>80</hitpoints>
+		<maxHit>5</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>5782</attackAnim>
+		<defenceAnim>5783</defenceAnim>
+		<deathAnim>5784</deathAnim>
+	</npcDefinition>
+  <npcDefinition>
+    <id>8596</id>
+    <name>Avatar of Destruction</name>
+    <examine>Rofl, you're owned.</examine>
+    <respawn>20</respawn>
+    <combat>20</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>60</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>11197</attackAnim>
+    <defenceAnim>11198</defenceAnim>
+    <deathAnim>11199</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8597</id>
+    <name>Avatar of Creation</name>
+    <examine>Rofl, you're owned.</examine>
+    <respawn>20</respawn>
+    <combat>525</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>60</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>11202</attackAnim>
+    <defenceAnim>11203</defenceAnim>
+    <deathAnim>11204</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3200</id>
+    <name>Chaos Elemental</name>
+    <examine>Good Luck...!</examine>
+    <respawn>75</respawn>
+    <combat>305</combat>
+    <hitpoints>500</hitpoints>
+    <maxHit>60</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>3146</attackAnim>
+    <defenceAnim>3148</defenceAnim>
+    <deathAnim>3147</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3340</id>
+    <name>Giant mole</name>
+    <examine>Good Luck...!</examine>
+    <respawn>60</respawn>
+    <combat>1</combat>
+    <hitpoints>300</hitpoints>
+    <maxHit>30</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>3312</attackAnim>
+    <defenceAnim>3311</defenceAnim>
+    <deathAnim>3310</deathAnim>
+  </npcDefinition>
+	<npcDefinition>
+		<id>6864</id>
+		<name>rune minotaur</name>
+		<combat>154</combat>
+		<hitpoints>570</hitpoints>
+		<maxHit>16</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>8024</attackAnim>
+		<defenceAnim>8023</defenceAnim>
+		<deathAnim>8025</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>221</id>
+		<name>black knight titan</name>
+		<combat>120</combat>
+		<hitpoints>142</hitpoints>
+		<maxHit>20</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>128</attackAnim>
+		<defenceAnim>129</defenceAnim>
+		<deathAnim>131</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6252</id>
+		<name>bree</name>
+		<combat>146</combat>
+		<hitpoints>162</hitpoints>
+		<maxHit>20</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7009</attackAnim>
+		<defenceAnim>7010</defenceAnim>
+		<deathAnim>7011</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>3068</id>
+		<name>skeletal wyvern</name>
+		<slayerReq>72</slayerReq>
+		<combat>146</combat>
+		<hitpoints>200</hitpoints>
+		<maxHit>22</maxHit>
+		<attackSpeed>4</attackSpeed>
+		<attackAnim>1593</attackAnim>
+		<defenceAnim>1591</defenceAnim>
+		<deathAnim>1591</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6250</id>
+		<name>Growler</name>
+		<combat>151</combat>
+		<hitpoints>143</hitpoints>
+		<maxHit>19</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>7018</attackAnim>
+		<defenceAnim>7017</defenceAnim>
+		<deathAnim>7016</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6248</id>
+		<name>Starlight</name>
+		<combat>149</combat>
+		<hitpoints>160</hitpoints>
+		<maxHit>19</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>6376</attackAnim>
+		<defenceAnim>6375</defenceAnim>
+		<deathAnim>6377</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6208</id>
+		<name>Tstanon Karlak</name>
+		<combat>151</combat>
+		<hitpoints>75</hitpoints>
+		<maxHit>19</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>67</attackAnim>
+		<defenceAnim>-1</defenceAnim>
+		<deathAnim>69</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6204</id>
+		<name>Tstanon Karlak</name>
+		<combat>145</combat>
+		<hitpoints>75</hitpoints>
+		<maxHit>21</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>67</attackAnim>
+		<defenceAnim>-1</defenceAnim>
+		<deathAnim>69</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6206</id>
+		<name>Zakl'n Gritch</name>
+		<combat>142</combat>
+		<hitpoints>75</hitpoints>
+		<maxHit>19</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>69</attackAnim>
+		<defenceAnim>-1</defenceAnim>
+		<deathAnim>67</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6223</id>
+		<name>Wingman Skree</name>
+		<combat>143</combat>
+		<hitpoints>121</hitpoints>
+		<maxHit>25</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>6955</attackAnim>
+		<defenceAnim>6953</defenceAnim>
+		<deathAnim>6956</deathAnim>
+	</npcDefinition>
+  	<npcDefinition>
+		<id>6225</id>
+		<name>Flockleader Geerin</name>
+		<combat>149</combat>
+		<hitpoints>132</hitpoints>
+		<maxHit>25</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>6955</attackAnim>
+		<defenceAnim>6953</defenceAnim>
+		<deathAnim>6956</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>6210</id>
+		<name>Hellhound</name>
+		<combat>127</combat>
+		<hitpoints>115</hitpoints>
+		<maxHit>14</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>6573</attackAnim>
+		<defenceAnim>6581</defenceAnim>
+		<deathAnim>6576</deathAnim>
+	</npcDefinition>
+ 	<npcDefinition>
+		<id>6211</id>
+		<name>Imp</name>
+		<combat>7</combat>
+		<hitpoints>10</hitpoints>
+		<maxHit>1</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>170</attackAnim>
+		<defenceAnim>173</defenceAnim>
+		<deathAnim>172</deathAnim>
+	</npcDefinition>		   
+  	<npcDefinition>
+		<id>6212</id>
+		<name>Werewolf</name>
+		<combat>93</combat>
+		<hitpoints>90</hitpoints>
+		<maxHit>13</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>6538</attackAnim>
+		<defenceAnim>6536</defenceAnim>
+		<deathAnim>6537</deathAnim>
+	</npcDefinition>
+  	<npcDefinition><id>6213</id><name>Werewolf</name><combat>93</combat><hitpoints>90</hitpoints><maxHit>13</maxHit><attackSpeed>7</attackSpeed><attackAnim>6538</attackAnim><defenceAnim>6536</defenceAnim><deathAnim>6537</deathAnim></npcDefinition>
+  	<npcDefinition><id>6214</id><name>Vampire</name><combat>77</combat><hitpoints>60</hitpoints><maxHit>8</maxHit><attackSpeed>7</attackSpeed><attackAnim>1659</attackAnim><defenceAnim>422</defenceAnim><deathAnim>7185</deathAnim></npcDefinition>
+  	<npcDefinition><id>6215</id><name>Bloodveld</name><slayerReq>50</slayerReq><combat>81</combat><hitpoints>134</hitpoints><maxHit>7</maxHit><attackSpeed>7</attackSpeed><attackAnim>9436</attackAnim><defenceAnim>9434</defenceAnim><deathAnim>9430</deathAnim></npcDefinition>  
+  	<npcDefinition><id>6216</id><name>Pyrefiend</name><combat>48</combat><hitpoints>48</hitpoints><maxHit>5</maxHit><attackSpeed>7</attackSpeed><attackAnim>8082</attackAnim><defenceAnim>8080</defenceAnim><deathAnim>8078</deathAnim></npcDefinition>
+  	<npcDefinition><id>6217</id><name>Icefiend</name><combat>18</combat><hitpoints>250</hitpoints><maxHit>18</maxHit><attackSpeed>7</attackSpeed><attackAnim>8082</attackAnim><defenceAnim>8080</defenceAnim><deathAnim>8078</deathAnim></npcDefinition>
+  	<npcDefinition><id>6218</id><name>Gorak</name><combat>149</combat><hitpoints>112</hitpoints><maxHit>15</maxHit><attackSpeed>7</attackSpeed><attackAnim>4301</attackAnim><defenceAnim>4300</defenceAnim><deathAnim>4302</deathAnim></npcDefinition>
+  	<npcDefinition><id>6219</id><name>Spiritual warrior</name><combat>115</combat><hitpoints>100</hitpoints><maxHit>11</maxHit><attackSpeed>7</attackSpeed><attackAnim>403</attackAnim><defenceAnim>1058</defenceAnim><deathAnim>836</deathAnim></npcDefinition>
+  	<npcDefinition><id>6220</id><name>Spiritual rrange</name><combat>121</combat><hitpoints>120</hitpoints><maxHit>16</maxHit><attackSpeed>7</attackSpeed><attackAnim>8988</attackAnim><defenceAnim>426</defenceAnim><deathAnim>836</deathAnim></npcDefinition>
+  	<npcDefinition><id>6221</id><name>Spiritual mage</name><combat>121</combat><hitpoints>75</hitpoints><maxHit>16</maxHit><attackSpeed>7</attackSpeed><attackAnim>8988</attackAnim><defenceAnim>811</defenceAnim><deathAnim>836</deathAnim></npcDefinition> 
+  	<npcDefinition><id>6254</id><name>Saradomin priest</name><combat>113</combat><hitpoints>90</hitpoints><maxHit>20</maxHit><attackSpeed>7</attackSpeed><attackAnim>8988</attackAnim><defenceAnim>811</defenceAnim><deathAnim>836</deathAnim></npcDefinition>
+  	<npcDefinition><id>6255</id><name>Spiritual warrior</name><combat>125</combat><hitpoints>110</hitpoints><maxHit>13</maxHit><attackSpeed>7</attackSpeed><attackAnim>403</attackAnim><defenceAnim>811</defenceAnim><deathAnim>836</deathAnim></npcDefinition>
+  	<npcDefinition><id>6256</id><name>Spiritual ranger</name><combat>122</combat><hitpoints>106</hitpoints><maxHit>16</maxHit><attackSpeed>7</attackSpeed><attackAnim>8988</attackAnim><defenceAnim>426</defenceAnim><deathAnim>836</deathAnim></npcDefinition>
+  	<npcDefinition><id>6257</id><name>Spiritual mage</name><combat>120</combat><hitpoints>85</hitpoints><maxHit>20</maxHit><attackSpeed>7</attackSpeed><attackAnim>8988</attackAnim><defenceAnim>811</defenceAnim><deathAnim>836</deathAnim></npcDefinition>
+  	<npcDefinition><id>6258</id><name>Knight of Saradomin</name><combat>101</combat><hitpoints>150</hitpoints><maxHit>17</maxHit><attackSpeed>7</attackSpeed><attackAnim>411</attackAnim><defenceAnim>406</defenceAnim><deathAnim>836</deathAnim></npcDefinition>
+  	<npcDefinition><id>6259</id><name>Knight of Saradomin</name><combat>103</combat><hitpoints>135</hitpoints><maxHit>34</maxHit><attackSpeed>7</attackSpeed><attackAnim>8988</attackAnim><defenceAnim>183</defenceAnim><deathAnim>836</deathAnim></npcDefinition>		  
+  	<npcDefinition><id>6268</id><name>Jogre</name><combat>158</combat><hitpoints>80</hitpoints><maxHit>7</maxHit><attackSpeed>7</attackSpeed><attackAnim>2936</attackAnim><defenceAnim>2935</defenceAnim><deathAnim>2938</deathAnim></npcDefinition>
+  	<npcDefinition><id>6269</id><name>Cyclops</name><combat>81</combat><hitpoints>100</hitpoints><maxHit>8</maxHit><attackSpeed>7</attackSpeed><attackAnim>4651</attackAnim><defenceAnim>4652</defenceAnim><deathAnim>4653</deathAnim></npcDefinition>
+  	<npcDefinition><id>6270</id><name>Cyclops</name><combat>81</combat><hitpoints>100</hitpoints><maxHit>8</maxHit><attackSpeed>7</attackSpeed><attackAnim>4651</attackAnim><defenceAnim>4652</defenceAnim><deathAnim>4653</deathAnim></npcDefinition>			 
+  	<npcDefinition><id>6271</id><name>Ork</name><combat>107</combat><hitpoints>110</hitpoints><maxHit>15</maxHit><attackSpeed>7</attackSpeed><attackAnim>4320</attackAnim><defenceAnim>4320</defenceAnim><deathAnim>4321</deathAnim></npcDefinition>
+  	<npcDefinition><id>6272</id><name>Ork</name><combat>107</combat><hitpoints>110</hitpoints><maxHit>15</maxHit><attackSpeed>7</attackSpeed><attackAnim>4320</attackAnim><defenceAnim>4320</defenceAnim><deathAnim>4321</deathAnim></npcDefinition>
+  	<npcDefinition><id>6273</id><name>Ork</name><combat>107</combat><hitpoints>110</hitpoints><maxHit>15</maxHit><attackSpeed>7</attackSpeed><attackAnim>4320</attackAnim><defenceAnim>4320</defenceAnim><deathAnim>4321</deathAnim></npcDefinition>
+  	<npcDefinition><id>6274</id><name>Ork</name><combat>107</combat><hitpoints>110</hitpoints><maxHit>15</maxHit><attackSpeed>7</attackSpeed><attackAnim>4320</attackAnim><defenceAnim>4320</defenceAnim><deathAnim>4321</deathAnim></npcDefinition>
+  	<npcDefinition><id>6275</id><name>Hobgoblin</name><combat>47</combat><hitpoints>51</hitpoints><maxHit>5</maxHit><attackSpeed>7</attackSpeed><attackAnim>165</attackAnim><defenceAnim>164</defenceAnim><deathAnim>167</deathAnim></npcDefinition>
+  	<npcDefinition><id>6276</id><name>Spiritual ranger</name><combat>115</combat><hitpoints>130</hitpoints><maxHit>13</maxHit><attackSpeed>7</attackSpeed><attackAnim>4322</attackAnim><defenceAnim>4320</defenceAnim><deathAnim>4321</deathAnim></npcDefinition>
+  	<npcDefinition><id>6277</id><name>Spiritual warrior</name><combat>134</combat><hitpoints>131</hitpoints><maxHit>16</maxHit><attackSpeed>7</attackSpeed><attackAnim>4322</attackAnim><defenceAnim>4320</defenceAnim><deathAnim>4321</deathAnim></npcDefinition>
+  	<npcDefinition><id>6278</id><name>Spiritual mage</name><combat>121</combat><hitpoints>106</hitpoints><maxHit>20</maxHit><attackSpeed>7</attackSpeed><attackAnim>4322</attackAnim><defenceAnim>4320</defenceAnim><deathAnim>4321</deathAnim></npcDefinition>
+  	<npcDefinition><id>6279</id><name>Goblin</name><combat>17</combat><hitpoints>17</hitpoints><maxHit>3</maxHit><attackSpeed>7</attackSpeed><attackAnim>6183</attackAnim><defenceAnim>6184</defenceAnim><deathAnim>6182</deathAnim></npcDefinition>
+  	<npcDefinition><id>6280</id><name>Goblin</name><combat>12</combat><hitpoints>17</hitpoints><maxHit>3</maxHit><attackSpeed>7</attackSpeed><attackAnim>6183</attackAnim><defenceAnim>6184</defenceAnim><deathAnim>6182</deathAnim></npcDefinition>
+  	<npcDefinition><id>6281</id><name>Goblin</name><combat>12</combat><hitpoints>17</hitpoints><maxHit>3</maxHit><attackSpeed>7</attackSpeed><attackAnim>6183</attackAnim><defenceAnim>6184</defenceAnim><deathAnim>6182</deathAnim></npcDefinition>
+  	<npcDefinition><id>6282</id><name>Goblin</name><combat>15</combat><hitpoints>17</hitpoints><maxHit>3</maxHit><attackSpeed>7</attackSpeed><attackAnim>6183</attackAnim><defenceAnim>6185</defenceAnim><deathAnim>6182</deathAnim></npcDefinition>
+  	<npcDefinition><id>6283</id><name>Goblin</name><combat>13</combat><hitpoints>17</hitpoints><maxHit>3</maxHit><attackSpeed>7</attackSpeed><attackAnim>6183</attackAnim><defenceAnim>6185</defenceAnim><deathAnim>6182</deathAnim></npcDefinition>
+  	<npcDefinition><id>6227</id><name>Flight Kilisa</name><combat>159</combat><hitpoints>159</hitpoints><maxHit>20</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6229</id><name>Spiritual warrior</name><combat>123</combat><hitpoints>98</hitpoints><maxHit>14</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6230</id><name>Spiritual ranger</name><combat>127</combat><hitpoints>89</hitpoints><maxHit>16</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6231</id><name>Spiritual mage</name><combat>123</combat><hitpoints>85</hitpoints><maxHit>13</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6232</id><name>Aviansie</name><combat>69</combat><hitpoints>70</hitpoints><maxHit>8</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6233</id><name>Aviansie</name><combat>71</combat><hitpoints>63</hitpoints><maxHit>10</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6234</id><name>Aviansie</name><combat>73</combat><hitpoints>67</hitpoints><maxHit>10</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6235</id><name>Aviansie</name><combat>79</combat><hitpoints>83</hitpoints><maxHit>10</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6236</id><name>Aviansie</name><combat>83</combat><hitpoints>86</hitpoints><maxHit>10</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6237</id><name>Aviansie</name><combat>84</combat><hitpoints>86</hitpoints><maxHit>10</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6238</id><name>Aviansie</name><combat>89</combat><hitpoints>92</hitpoints><maxHit>10</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6239</id><name>Aviansie</name><combat>92</combat><hitpoints>95</hitpoints><maxHit>10</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6240</id><name>Aviansie</name><combat>94</combat><hitpoints>75</hitpoints><maxHit>10</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6241</id><name>Aviansie</name><combat>97</combat><hitpoints>98</hitpoints><maxHit>11</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6242</id><name>Aviansie</name><combat>131</combat><hitpoints>108</hitpoints><maxHit>15</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6243</id><name>Aviansie</name><combat>137</combat><hitpoints>124</hitpoints><maxHit>16</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6244</id><name>Aviansie</name><combat>148</combat><hitpoints>139</hitpoints><maxHit>15</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6245</id><name>Aviansie</name><combat>138</combat><hitpoints>108</hitpoints><maxHit>16</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>
+  	<npcDefinition><id>6246</id><name>Aviansie</name><combat>126</combat><hitpoints>120</hitpoints><maxHit>16</maxHit><attackSpeed>7</attackSpeed><attackAnim>6955</attackAnim><defenceAnim>6953</defenceAnim><deathAnim>6956</deathAnim></npcDefinition>	  
+ <npcDefinition>
+    <id>55</id>
+    <name>stfffl</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>50</respawn>
+    <combat>13</combat>
+    <hitpoints>50</hitpoints>
+    <maxHit>3</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>1312</attackAnim>
+    <defenceAnim>1313</defenceAnim>
+    <deathAnim>1314</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1637</id>
+    <name>jelly</name>
+	<slayerReq>52</slayerReq>
+    <examine>An npc made of weird components!</examine>
+    <respawn>15</respawn>
+    <combat>78</combat>
+    <hitpoints>75</hitpoints>
+    <maxHit>6</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>8569</attackAnim>
+    <defenceAnim>8571</defenceAnim>
+    <deathAnim>8570</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1636</id>
+    <name>pyrefiend</name>
+    <examine>An npc made of firey components!</examine>
+    <respawn>15</respawn>
+    <combat>43</combat>
+    <hitpoints>25</hitpoints>
+    <maxHit>3</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>1582</attackAnim>
+    <defenceAnim>1581</defenceAnim>
+    <deathAnim>1580</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>54</id>
+    <name>stufss</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>50</respawn>
+    <combat>13</combat>
+    <hitpoints>50</hitpoints>
+    <maxHit>3</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>1312</attackAnim>
+    <defenceAnim>1313</defenceAnim>
+    <deathAnim>1314</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>115</id>
+    <name>stfffl</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>50</respawn>
+    <combat>53</combat>
+    <hitpoints>321</hitpoints>
+    <maxHit>20</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>11458</attackAnim>
+    <defenceAnim>11459</defenceAnim>
+    <deathAnim>11457</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1615</id>
+    <name>Abyssal demon</name>
+	<slayerReq>85</slayerReq>
+    <examine>Run Away!!!!</examine>
+    <respawn>50</respawn>
+    <combat>126</combat>
+    <hitpoints>150</hitpoints>
+    <maxHit>9</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>1537</attackAnim>
+    <defenceAnim>0</defenceAnim>
+    <deathAnim>1538</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1613</id>
+    <name>Neckryeal</name>
+	<slayerReq>80</slayerReq>
+    <examine>Run away!</examine>
+    <respawn>5</respawn>
+    <combat>115</combat>
+    <hitpoints>120</hitpoints>
+    <maxHit>30</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>9491</attackAnim>
+    <defenceAnim>9489</defenceAnim>
+    <deathAnim>9488</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1610</id>
+    <name>Gargoyle</name>
+	<slayerReq>75</slayerReq>
+    <examine>Run away!</examine>
+    <respawn>5</respawn>
+    <combat>111</combat>
+    <hitpoints>150</hitpoints>
+    <maxHit>35</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>9454</attackAnim>
+    <defenceAnim>9455</defenceAnim>
+    <deathAnim>1</deathAnim>//unknown
+  </npcDefinition>
+  <npcDefinition>
+    <id>1648</id>
+    <name>Crawling Hands</name>
+    <examine>Run away!</examine>
+    <respawn>5</respawn>
+    <combat>8</combat>
+    <hitpoints>30</hitpoints>
+    <maxHit>5</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>9125</attackAnim>
+    <defenceAnim>9127</defenceAnim>
+    <deathAnim>9126</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1612</id>
+    <name>Banshee</name>
+	<slayerReq>15</slayerReq>
+    <examine>Run away!</examine>
+    <respawn>5</respawn>
+    <combat>23</combat>
+    <hitpoints>50</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>9449</attackAnim>
+    <defenceAnim>9451</defenceAnim>
+    <deathAnim>9450</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1643</id>
+	<slayerReq>35</slayerReq>
+    <name>Infernal Mage</name>
+    <examine>Run away!</examine>
+    <respawn>5</respawn>
+    <combat>66</combat>
+    <hitpoints>75</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>7186</attackAnim>
+    <defenceAnim>7187</defenceAnim>
+    <deathAnim>7185</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1604</id>
+    <name>Aberrant Spectre</name>
+	<slayerReq>60</slayerReq>
+    <examine>Run away!</examine>
+    <respawn>5</respawn>
+    <combat>96</combat>
+    <hitpoints>110</hitpoints>
+    <maxHit>20</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>9466</attackAnim>
+    <defenceAnim>9468</defenceAnim>
+    <deathAnim>9467</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>7343</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>50</respawn>
+    <combat>13</combat>
+    <hitpoints>50</hitpoints>
+    <maxHit>3</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>1312</attackAnim>
+    <defenceAnim>1313</defenceAnim>
+    <deathAnim>1314</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1267</id>
+    <name>rock crab</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>50</respawn>
+    <combat>13</combat>
+    <hitpoints>75</hitpoints>
+    <maxHit>3</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>1312</attackAnim>
+    <defenceAnim>1313</defenceAnim>
+    <deathAnim>1314</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2452</id>
+    <name>giant rock crab</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>50</respawn>
+    <combat>13</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>5</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>1312</attackAnim>
+    <defenceAnim>1313</defenceAnim>
+    <deathAnim>1314</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6231</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>123</combat>
+    <hitpoints>85</hitpoints>
+    <maxHit>13</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>6953</attackAnim>
+    <defenceAnim>6955</defenceAnim>
+    <deathAnim>6956</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6230</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>127</respawn>
+    <combat>143</combat>
+    <hitpoints>89</hitpoints>
+    <maxHit>16</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>6953</attackAnim>
+    <defenceAnim>6955</defenceAnim>
+    <deathAnim>6956</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6229</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>123</combat>
+    <hitpoints>98</hitpoints>
+    <maxHit>16</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>6953</attackAnim>
+    <defenceAnim>6955</defenceAnim>
+    <deathAnim>6956</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6227</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>159</combat>
+    <hitpoints>159</hitpoints>
+    <maxHit>20</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>6953</attackAnim>
+    <defenceAnim>6955</defenceAnim>
+    <deathAnim>6956</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6225</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>149</combat>
+    <hitpoints>132</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>6953</attackAnim>
+    <defenceAnim>6955</defenceAnim>
+    <deathAnim>6956</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6223</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>143</combat>
+    <hitpoints>121</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>6953</attackAnim>
+    <defenceAnim>6955</defenceAnim>
+    <deathAnim>6956</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6218</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>149</combat>
+    <hitpoints>112</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>4300</attackAnim>
+    <defenceAnim>4301</defenceAnim>
+    <deathAnim>4302</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6247</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>596</combat>
+    <hitpoints>225</hitpoints>
+    <maxHit>31</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>6966</defenceAnim>
+    <deathAnim>6965</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6203</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>650</combat>
+    <hitpoints>225</hitpoints>
+    <maxHit>43</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>6944</defenceAnim>
+    <deathAnim>6946</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6265</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>141</combat>
+    <hitpoints>225</hitpoints>
+    <maxHit>20</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>6154</attackAnim>
+    <defenceAnim>6155</defenceAnim>
+    <deathAnim>6156</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6263</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>141</combat>
+    <hitpoints>225</hitpoints>
+    <maxHit>20</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>6154</attackAnim>
+    <defenceAnim>6155</defenceAnim>
+    <deathAnim>6156</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6261</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>141</combat>
+    <hitpoints>225</hitpoints>
+    <maxHit>20</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>6154</attackAnim>
+    <defenceAnim>6155</defenceAnim>
+    <deathAnim>6156</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6260</id>
+    <name>general</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>120</respawn>
+    <combat>624</combat>
+    <hitpoints>225</hitpoints>
+    <maxHit>65</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>7061</defenceAnim>
+    <deathAnim>7062</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2745</id>
+    <name>TzTok-Jad</name>
+    <examine>Run Away!!!!</examine>
+    <respawn>70</respawn>
+    <combat>702</combat>
+    <hitpoints>485</hitpoints>
+    <maxHit>99</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>9276</attackAnim>
+    <defenceAnim>9278</defenceAnim>
+    <deathAnim>9279</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6222</id>
+    <name>Kree'arra</name>
+	<combatReq>100</combatReq>
+    <examine>Rawrrr.</examine>
+    <respawn>50</respawn>
+    <combat>580</combat>
+    <hitpoints>540</hitpoints>
+    <maxHit>10</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>6976</attackAnim>
+    <defenceAnim>6974</defenceAnim>
+    <deathAnim>6975</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1460</id>
+    <name>Monkey Guard</name>
+    <examine>Rawrrr.</examine>
+    <respawn>50</respawn>
+    <combat>167</combat>
+    <hitpoints>281</hitpoints>
+    <maxHit>10</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>1402</attackAnim>
+    <defenceAnim>1403</defenceAnim>
+    <deathAnim>1404</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>7133</id>
+    <name>Bork</name>
+    <examine>Bork.</examine>
+    <respawn>50</respawn>
+    <combat>267</combat>
+    <hitpoints>476</hitpoints>
+    <maxHit>40</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>8754</attackAnim>
+    <defenceAnim>8755</defenceAnim>
+    <deathAnim>8758</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>7134</id>
+    <name>Bork</name>
+    <examine>Bork.</examine>
+    <respawn>50</respawn>
+    <combat>267</combat>
+    <hitpoints>476</hitpoints>
+    <maxHit>40</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>8754</attackAnim>
+    <defenceAnim>8755</defenceAnim>
+    <deathAnim>8758</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6815</id>
+    <name>War Tortoise</name>
+    <examine>Definitly not teenaged, although the jury is out on its ninja skills.</examine>
+    <respawn>-1</respawn>
+    <combat>86</combat>
+    <hitpoints>348</hitpoints>
+    <maxHit>10</maxHit>
+    <attackSpeed>10</attackSpeed>
+    <attackAnim>8286</attackAnim>
+    <defenceAnim>8287</defenceAnim>
+    <deathAnim>8285</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6816</id>
+    <name>War Tortoise</name>
+    <examine>Definitly not teenaged, although the jury is out on its ninja skills.</examine>
+    <respawn>-1</respawn>
+    <combat>86</combat>
+    <hitpoints>348</hitpoints>
+    <maxHit>10</maxHit>
+    <attackSpeed>10</attackSpeed>
+    <attackAnim>8286</attackAnim>
+    <defenceAnim>8287</defenceAnim>
+    <deathAnim>8285</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1158</id>
+    <name>Kalphite Queen</name>
+    <examine>Kalphite Queen.</examine>
+    <respawn>50</respawn>
+    <combat>333</combat>
+    <hitpoints>255</hitpoints>
+    <maxHit>31</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>6241</attackAnim>
+    <defenceAnim>6227</defenceAnim>
+    <deathAnim>6242</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1160</id>
+    <name>Kalphite Queen</name>
+    <examine>Kalphite Queen.</examine>
+    <respawn>50</respawn>
+    <combat>333</combat>
+    <hitpoints>255</hitpoints>
+    <maxHit>31</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>6235</attackAnim>
+    <defenceAnim>6237</defenceAnim>
+    <deathAnim>6233</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6604</id>
+    <name>Revenant Imp</name>
+    <examine>Revenant Imp .</examine>
+    <respawn>10</respawn>
+    <combat>7</combat>
+    <hitpoints>10</hitpoints>
+    <maxHit>3</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8127</id>
+    <name>Dark Energy Core</name>
+    <examine>A small being of dark energy.</examine>
+    <respawn>10000000</respawn>
+    <combat>75</combat>
+    <hitpoints>25</hitpoints>
+    <maxHit>13</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6605</id>
+    <name>Revenant goblin</name>
+    <examine>Revenant goblin  .</examine>
+    <respawn>10</respawn>
+    <combat>15</combat>
+    <hitpoints>35</hitpoints>
+    <maxHit>6</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6607</id>
+    <name>Revenant werewolf</name>
+    <examine>Revenant werewolf  .</examine>
+    <respawn>10</respawn>
+    <combat>75</combat>
+    <hitpoints>50</hitpoints>
+    <maxHit>11</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6610</id>
+    <name>Revenant ork</name>
+    <examine>Revenant ork .</examine>
+    <respawn>10</respawn>
+    <combat>105</combat>
+    <hitpoints>108</hitpoints>
+    <maxHit>13</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6611</id>
+    <name>Revenant Knight </name>
+    <examine>Revenant Knight .</examine>
+    <respawn>10</respawn>
+    <combat>126</combat>
+    <hitpoints>143</hitpoints>
+    <maxHit>14</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1</id>
+    <name>Man</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>50</respawn>
+    <combat>2</combat>
+    <hitpoints>7</hitpoints>
+    <maxHit>1</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>422</attackAnim>
+    <defenceAnim>404</defenceAnim>
+    <deathAnim>7197</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8352</id>
+    <name>Tormented Demon</name>
+    <examine>Tormented Demon.</examine>
+    <respawn>50</respawn>
+    <combat>450</combat>
+    <hitpoints>326</hitpoints>
+    <maxHit>35</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>10923</defenceAnim>
+    <deathAnim>10924</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8351</id>
+    <name>Tormented Demon</name>
+    <examine>Tormented Demon.</examine>
+    <respawn>50</respawn>
+    <combat>450</combat>
+    <hitpoints>326</hitpoints>
+    <maxHit>35</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>10923</defenceAnim>
+    <deathAnim>10924</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8350</id>
+    <name>Tormented Demon</name>
+    <examine>Tormented Demon.</examine>
+    <respawn>50</respawn>
+    <combat>450</combat>
+    <hitpoints>326</hitpoints>
+    <maxHit>35</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>10923</defenceAnim>
+    <deathAnim>10924</deathAnim>
+  </npcDefinition>
+/*
+Corporeal Beast.
+MagicAttack
+10055
+Stand Animation-
+10056
+Attack Animation-
+10057
+Block Animation-
+10058
+Death Animation-
+10059
+*/
+  <npcDefinition>
+    <id>8133</id>
+    <name>Corporeal Beast</name>
+    <examine>Corporeal Beast.</examine>
+    <respawn>30</respawn>
+    <combat>785</combat>
+    <hitpoints>2000</hitpoints>
+    <maxHit>65</maxHit>
+    <attackSpeed>10</attackSpeed>
+    <attackAnim>10057</attackAnim>
+    <defenceAnim>10058</defenceAnim>
+    <deathAnim>10059</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8324</id>
+    <name>Elite Black Knight</name>
+    <examine>Elite Black Knight.</examine>
+    <respawn>1</respawn>
+    <combat>138</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>10855</defenceAnim>
+    <deathAnim>10856</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8325</id>
+    <name>Elite Black Knight</name>
+    <examine>Elite Black Knight.</examine>
+    <respawn>1</respawn>
+    <combat>138</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>10855</defenceAnim>
+    <deathAnim>10856</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8326</id>
+    <name>Elite Black Knight</name>
+    <examine>Elite Black Knight.</examine>
+    <respawn>1</respawn>
+    <combat>138</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>10855</defenceAnim>
+    <deathAnim>10856</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8327</id>
+    <name>Elite Black Knight</name>
+    <examine>Elite Black Knight.</examine>
+    <respawn>1</respawn>
+    <combat>138</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>10855</defenceAnim>
+    <deathAnim>10856</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1265</id>
+    <name>Rock crab</name>
+    <examine>No one likes crabs...</examine>
+    <respawn>50</respawn>
+    <combat>13</combat>
+    <hitpoints>50</hitpoints>
+    <maxHit>1</maxHit>
+  </npcDefinition>
+  <npcDefinition>
+    <id>520</id>
+    <name>Shop keeper</name>
+    <examine>A shop keeper.</examine>
+    <respawn>50</respawn>
+    <combat>0</combat>
+    <hitpoints>0</hitpoints>
+    <maxHit>0</maxHit>
+  </npcDefinition>
+  <npcDefinition>
+    <id>521</id>
+    <name>Shop assistant</name>
+    <examine>A shop keeper's assistant.</examine>
+    <respawn>50</respawn>
+    <combat>0</combat>
+    <hitpoints>0</hitpoints>
+    <maxHit>0</maxHit>
+  </npcDefinition>
+  <npcDefinition>
+    <id>50</id>
+    <name>King black dragon</name>
+    <examine>A mighty dragon.</examine>
+    <respawn>120</respawn>
+    <combat>276</combat>
+    <hitpoints>240</hitpoints>
+    <maxHit>30</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>81</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>941</id>
+    <name>Green Dragon</name>
+    <examine>A mighty dragon.</examine>
+    <respawn>60</respawn>
+    <combat>90</combat>
+    <hitpoints>70</hitpoints>
+    <maxHit>15</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>12252</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>55</id>
+    <name>blue Dragon</name>
+    <examine>A mighty dragon.</examine>
+    <respawn>30</respawn>
+    <combat>111</combat>
+    <hitpoints>105</hitpoints>
+    <maxHit>20</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>12252</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>4669</id>
+    <name>red dragon</name>
+    <examine>A mighty dragon.</examine>
+    <respawn>30</respawn>
+    <combat>156</combat>
+    <hitpoints>140</hitpoints>
+    <maxHit>25</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>12252</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>4673</id>
+    <name>black dragon</name>
+    <examine>A mighty dragon.</examine>
+    <respawn>30</respawn>
+    <combat>227</combat>
+    <hitpoints>190</hitpoints>
+    <maxHit>28</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>12252</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1590</id>
+    <name>bronze dragon</name>
+    <examine>A mighty dragon.</examine>
+    <respawn>30</respawn>
+    <combat>131</combat>
+    <hitpoints>500</hitpoints>
+    <maxHit>10</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>12252</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1591</id>
+    <name>Iron dragon</name>
+    <examine>A mighty dragon.</examine>
+    <respawn>10</respawn>
+    <combat>189</combat>
+    <hitpoints>750</hitpoints>
+    <maxHit>35</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>12252</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1592</id>
+    <name>Steel dragon</name>
+    <examine>A mighty dragon.</examine>
+    <respawn>10</respawn>
+    <combat>246</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>40</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>12252</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8618</id>
+    <name>Barricade</name>
+    <examine>Run away!</examine>
+    <respawn>1</respawn>
+    <combat>0</combat>
+    <hitpoints>999999</hitpoints>
+    <maxHit>0</maxHit>
+    <attackSpeed>0</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>9658</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>5363</id>
+    <name>Mithril dragon</name>
+    <examine>A mighty dragon.</examine>
+    <respawn>15</respawn>
+    <combat>1337</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>50</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>12252</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8282</id>
+    <name>balance elemental</name>
+    <examine>Run away!</examine>
+    <respawn>30</respawn>
+    <combat>454</combat>
+    <hitpoints>500</hitpoints>
+    <maxHit>60</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>10669</attackAnim>
+    <defenceAnim>10666</defenceAnim>
+    <deathAnim>10673</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>5362</id>
+    <name>brutal green dragon</name>
+    <examine>A mighty dragon.</examine>
+    <respawn>15</respawn>
+    <combat>668</combat>
+    <hitpoints>500</hitpoints>
+    <maxHit>30</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>12252</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+  </npcDefinition>
+    <npcDefinition>
+        <id>6388</id>
+        <name>Man</name>
+        <examine>Bandit Guard.</examine>
+        <respawn>60</respawn>
+        <combat>41</combat>
+        <hitpoints>100</hitpoints>
+        <maxHit>10</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>422</attackAnim>
+        <defenceAnim>404</defenceAnim>
+        <deathAnim>7197</deathAnim>
+    </npcDefinition>
+    <npcDefinition>
+        <id>941</id>
+        <name>Man</name>
+        <examine>Green Dragon From Wilderness.</examine>
+        <respawn>60</respawn>
+        <combat>2</combat>
+        <hitpoints>74</hitpoints>
+        <maxHit>22</maxHit>
+        <attackSpeed>8</attackSpeed>
+        <attackAnim>12252</attackAnim>
+        <defenceAnim>12251</defenceAnim>
+        <deathAnim>12250</deathAnim>
+    </npcDefinition>
+  <npcDefinition>
+    <id>2881</id>
+    <name>Dagonnoth Supreme</name>
+    <examine>Run away!</examine>
+    <respawn>75</respawn>
+    <combat>303</combat>
+    <hitpoints>630</hitpoints>
+    <maxHit>31</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>2855</attackAnim>
+    <defenceAnim>2852</defenceAnim>
+    <deathAnim>2856</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2883</id>
+    <name>Dagonnoth Rex</name>
+    <examine>Run away!</examine>
+    <respawn>75</respawn>
+    <combat>303</combat>
+    <hitpoints>630</hitpoints>
+    <maxHit>28</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>2853</attackAnim>
+    <defenceAnim>2852</defenceAnim>
+    <deathAnim>2856</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2882</id>
+    <name>Dagonnoth Prime</name>
+    <examine>Run away!</examine>
+    <respawn>75</respawn>
+    <combat>303</combat>
+    <hitpoints>630</hitpoints>
+    <maxHit>60</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>2854</attackAnim>
+    <defenceAnim>2852</defenceAnim>
+    <deathAnim>2856</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1338</id>
+    <name>Dagonnoth</name>
+    <examine>Run away!</examine>
+    <respawn>60</respawn>
+    <combat>92</combat>
+    <hitpoints>120</hitpoints>
+    <maxHit>12</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>1341</attackAnim>
+    <defenceAnim>1340</defenceAnim>
+    <deathAnim>1342</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>5666</id>
+    <name>Barrelchest</name>
+    <examine>Run away!</examine>
+    <respawn>30</respawn>
+    <combat>170</combat>
+    <hitpoints>300</hitpoints>
+    <maxHit>35</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>5895</attackAnim>
+    <defenceAnim>5897</defenceAnim>
+    <deathAnim>5898</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>5421</id>
+    <name>Mutant tarn</name>
+    <examine>Run away!</examine>
+    <respawn>30</respawn>
+    <combat>69</combat>
+    <hitpoints>500</hitpoints>
+    <maxHit>30</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>5617</attackAnim>
+    <defenceAnim>5618</defenceAnim>
+    <deathAnim>5619</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>5902</id>
+    <name>the inadequancy</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>353</combat>
+    <hitpoints>300</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>6318</attackAnim>
+    <defenceAnim>6321</defenceAnim>
+    <deathAnim>6322</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3847</id>
+    <name>Sea troll queen</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>353</combat>
+    <hitpoints>150</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>3992</attackAnim>
+    <defenceAnim>3990</defenceAnim>
+    <deathAnim>3993</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>9172</id>
+    <name>Aquanite</name>
+    <examine>Run away!</examine>
+	<slayerReq>78</slayerReq>
+    <respawn>10</respawn>
+    <combat>78</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>12042</attackAnim>
+    <defenceAnim>12040</defenceAnim>
+    <deathAnim>12039</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>4971</id>
+    <name>baby roc</name>
+    <examine>Run away!</examine>
+    <respawn>15</respawn>
+    <combat>75</combat>
+    <hitpoints>50</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>5032</attackAnim>
+    <defenceAnim>5031</defenceAnim>
+    <deathAnim>5033</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>4972</id>
+    <name>giant roc</name>
+    <examine>Run away!</examine>
+    <respawn>15</respawn>
+    <combat>172</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>30</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>5023</attackAnim>
+    <defenceAnim>5026</defenceAnim>
+    <deathAnim>5027</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>4540</id>
+    <name>bandos avatar</name>
+    <examine>Run away!</examine>
+    <respawn>15</respawn>
+    <combat>125</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>50</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>11244</attackAnim>
+    <defenceAnim>11256</defenceAnim>
+    <deathAnim>11254</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8125</id>
+    <name>tormented wraith</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>129</combat>
+    <hitpoints>150</hitpoints>
+    <maxHit>21</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>5532</attackAnim>
+    <defenceAnim>5533</defenceAnim>
+    <deathAnim>5534</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8549</id>
+    <name>phoenix</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>235</combat>
+    <hitpoints>500</hitpoints>
+    <maxHit>40</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>11076</attackAnim>
+    <defenceAnim>11078</defenceAnim>
+    <deathAnim>11081</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2025</id>
+    <name>ahrim the belighted</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>98</combat>
+    <hitpoints>105</hitpoints>
+    <maxHit>20</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>2078</attackAnim>
+    <defenceAnim>2079</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2026</id>
+    <name>dharok the wretched</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>115</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>58</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>2066</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2027</id>
+    <name>guthan the infested</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>115</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>24</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>2082</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2028</id>
+    <name>karil the tainted</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>98</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>21</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>2075</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2029</id>
+    <name>torag the corrupted</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>115</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>23</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>2068</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2030</id>
+    <name>verac the defiled</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>115</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>24</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>2062</attackAnim>
+    <defenceAnim>2063</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>9176</id>
+    <name>skeletal horror</name>
+    <examine>Run away!</examine>
+    <respawn>15</respawn>
+    <combat>320</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>40</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>12105</attackAnim>
+    <defenceAnim>12071</defenceAnim>
+    <deathAnim>12069</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>2060</id>
+    <name>Slash Bash</name>
+    <examine>Run away!</examine>
+    <respawn>20</respawn>
+    <combat>111</combat>
+    <hitpoints>300</hitpoints>
+    <maxHit>30</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>11458</attackAnim>
+    <defenceAnim>11459</defenceAnim>
+    <deathAnim>11457</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>5247</id>
+    <name>penance queen</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>209</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>31</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>5411</attackAnim>
+    <defenceAnim>5408</defenceAnim>
+    <deathAnim>5412</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>5452</id>
+    <name>Ice Lord</name>
+    <examine>Run away!</examine>
+    <respawn>15</respawn>
+    <combat>209</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>40</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>5724</attackAnim>
+    <defenceAnim>5723</defenceAnim>
+    <deathAnim>5726</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>934</id>
+    <name>nezikchened</name>
+    <examine>Run away!</examine>
+    <respawn>15</respawn>
+    <combat>209</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>40</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>64</attackAnim>
+    <defenceAnim>65</defenceAnim>
+    <deathAnim>67</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8249</id>
+    <name>clay familiar</name>
+    <examine>Run away!</examine>
+    <respawn>15</respawn>
+    <combat>209</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>40</maxHit>
+    <attackSpeed>3</attackSpeed>
+    <attackAnim>10591</attackAnim>
+    <defenceAnim>10592</defenceAnim>
+    <deathAnim>10597</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>5361</id>
+    <name>waterfiend</name>
+    <examine>Run away!</examine>
+    <respawn>10</respawn>
+    <combat>209</combat>
+    <hitpoints>250</hitpoints>
+    <maxHit>22</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>299</attackAnim>
+    <defenceAnim>301</defenceAnim>
+    <deathAnim>300</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6105</id>
+    <name>skeleton warlord</name>
+    <examine>Run away!</examine>
+    <respawn>3</respawn>
+    <combat>209</combat>
+    <hitpoints>500</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>2067</attackAnim>
+    <defenceAnim>2063</defenceAnim>
+    <deathAnim>804</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>5996</id>
+    <name>Glod the giant</name>
+    <examine>Run away!</examine>
+    <respawn>3</respawn>
+    <combat>109</combat>
+    <hitpoints>500</hitpoints>
+    <maxHit>30</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>6501</attackAnim>
+    <defenceAnim>6503</defenceAnim>
+    <deathAnim>6502</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1290</id>
+    <name>Koschei the KKK leader</name>
+    <examine>They come in a wide variety of pointy hats.</examine>
+    <respawn>180</respawn>
+    <combat>99</combat>
+    <hitpoints>9999</hitpoints>
+    <maxHit>60</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>7048</attackAnim>
+    <defenceAnim>7050</defenceAnim>
+    <deathAnim>7197</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1975</id>
+    <name>Damis a Nigger leader</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>999999999</respawn>
+    <combat>99</combat>
+    <hitpoints>99999</hitpoints>
+    <maxHit>100</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>7048</attackAnim>
+    <defenceAnim>7050</defenceAnim>
+    <deathAnim>7197</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1974</id>
+    <name>Damis a Nigger leader</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>15</respawn>
+    <combat>99</combat>
+    <hitpoints>1200</hitpoints>
+    <maxHit>40</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>7049</attackAnim>
+    <defenceAnim>7050</defenceAnim>
+    <deathAnim>7197</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>9161</id>
+    <name>Arrav the corrupted.</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>99999999</respawn>
+    <combat>99</combat>
+    <hitpoints>15000</hitpoints>
+    <maxHit>99</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>7072</attackAnim>
+    <defenceAnim>11920</defenceAnim>
+    <deathAnim>11921</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3727</id>
+    <name>splatter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>50</hitpoints>
+    <maxHit>5</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3891</attackAnim>
+    <defenceAnim>3890</defenceAnim>
+    <deathAnim>3889</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3728</id>
+    <name>splatter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>60</hitpoints>
+    <maxHit>10</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3891</attackAnim>
+    <defenceAnim>3890</defenceAnim>
+    <deathAnim>3889</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3729</id>
+    <name>splatter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>70</hitpoints>
+    <maxHit>10</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3891</attackAnim>
+    <defenceAnim>3890</defenceAnim>
+    <deathAnim>3889</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3730</id>
+    <name>splatter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>80</hitpoints>
+    <maxHit>10</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3891</attackAnim>
+    <defenceAnim>3890</defenceAnim>
+    <deathAnim>3889</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3731</id>
+    <name>splatter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>10</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3891</attackAnim>
+    <defenceAnim>3890</defenceAnim>
+    <deathAnim>3889</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3732</id>
+    <name>shifter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>10</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3901</attackAnim>
+    <defenceAnim>3902</defenceAnim>
+    <deathAnim>3903</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3733</id>
+    <name>shifter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3901</attackAnim>
+    <defenceAnim>3902</defenceAnim>
+    <deathAnim>3903</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3734</id>
+    <name>shifter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3901</attackAnim>
+    <defenceAnim>3902</defenceAnim>
+    <deathAnim>3903</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3735</id>
+    <name>shifter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3901</attackAnim>
+    <defenceAnim>3902</defenceAnim>
+    <deathAnim>3903</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3736</id>
+    <name>shifter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3901</attackAnim>
+    <defenceAnim>3902</defenceAnim>
+    <deathAnim>3903</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3737</id>
+    <name>shifter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3901</attackAnim>
+    <defenceAnim>3902</defenceAnim>
+    <deathAnim>3903</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3738</id>
+    <name>shifter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3901</attackAnim>
+    <defenceAnim>3902</defenceAnim>
+    <deathAnim>3903</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3739</id>
+    <name>shifter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3901</attackAnim>
+    <defenceAnim>3902</defenceAnim>
+    <deathAnim>3903</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3740</id>
+    <name>shifter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3901</attackAnim>
+    <defenceAnim>3902</defenceAnim>
+    <deathAnim>3903</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3741</id>
+    <name>shifter</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3901</attackAnim>
+    <defenceAnim>3902</defenceAnim>
+    <deathAnim>3903</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3742</id>
+    <name>Ravager</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3915</attackAnim>
+    <defenceAnim>3916</defenceAnim>
+    <deathAnim>3917</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3743</id>
+    <name>Ravager</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>16</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3915</attackAnim>
+    <defenceAnim>3916</defenceAnim>
+    <deathAnim>3917</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3744</id>
+    <name>Ravager</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>17</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3915</attackAnim>
+    <defenceAnim>3916</defenceAnim>
+    <deathAnim>3917</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3745</id>
+    <name>Ravager</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>18</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3915</attackAnim>
+    <defenceAnim>3916</defenceAnim>
+    <deathAnim>3917</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3746</id>
+    <name>Ravager</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>20</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3915</attackAnim>
+    <defenceAnim>3916</defenceAnim>
+    <deathAnim>3917</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3747</id>
+    <name>spinner</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>18</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3908</attackAnim>
+    <defenceAnim>3909</defenceAnim>
+    <deathAnim>3910</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3748</id>
+    <name>spinner</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>18</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3908</attackAnim>
+    <defenceAnim>3909</defenceAnim>
+    <deathAnim>3910</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3749</id>
+    <name>spinner</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>18</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3908</attackAnim>
+    <defenceAnim>3909</defenceAnim>
+    <deathAnim>3910</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3750</id>
+    <name>spinner</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>18</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3908</attackAnim>
+    <defenceAnim>3909</defenceAnim>
+    <deathAnim>3910</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3751</id>
+    <name>spinner</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>18</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3908</attackAnim>
+    <defenceAnim>3909</defenceAnim>
+    <deathAnim>3910</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3752</id>
+    <name>torcher</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3882</attackAnim>
+    <defenceAnim>3880</defenceAnim>
+    <deathAnim>3881</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3753</id>
+    <name>torcher</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3882</attackAnim>
+    <defenceAnim>3880</defenceAnim>
+    <deathAnim>3881</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3754</id>
+    <name>torcher</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3882</attackAnim>
+    <defenceAnim>3880</defenceAnim>
+    <deathAnim>3881</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3755</id>
+    <name>torcher</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3882</attackAnim>
+    <defenceAnim>3880</defenceAnim>
+    <deathAnim>3881</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3756</id>
+    <name>torcher</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3882</attackAnim>
+    <defenceAnim>3880</defenceAnim>
+    <deathAnim>3881</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3757</id>
+    <name>torcher</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3882</attackAnim>
+    <defenceAnim>3880</defenceAnim>
+    <deathAnim>3881</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3758</id>
+    <name>torcher</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3882</attackAnim>
+    <defenceAnim>3880</defenceAnim>
+    <deathAnim>3881</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3759</id>
+    <name>torcher</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3882</attackAnim>
+    <defenceAnim>3880</defenceAnim>
+    <deathAnim>3881</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3760</id>
+    <name>torcher</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3882</attackAnim>
+    <defenceAnim>3880</defenceAnim>
+    <deathAnim>3881</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3761</id>
+    <name>torcher</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>15</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3882</attackAnim>
+    <defenceAnim>3880</defenceAnim>
+    <deathAnim>3881</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3762</id>
+    <name>defiler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>19</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3920</attackAnim>
+    <defenceAnim>3921</defenceAnim>
+    <deathAnim>3922</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3763</id>
+    <name>defiler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>19</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3920</attackAnim>
+    <defenceAnim>3921</defenceAnim>
+    <deathAnim>3922</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3764</id>
+    <name>defiler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>19</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3920</attackAnim>
+    <defenceAnim>3921</defenceAnim>
+    <deathAnim>3922</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3765</id>
+    <name>defiler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>19</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3920</attackAnim>
+    <defenceAnim>3921</defenceAnim>
+    <deathAnim>3922</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3766</id>
+    <name>defiler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>19</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3920</attackAnim>
+    <defenceAnim>3921</defenceAnim>
+    <deathAnim>3922</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3767</id>
+    <name>defiler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>19</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3920</attackAnim>
+    <defenceAnim>3921</defenceAnim>
+    <deathAnim>3922</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3768</id>
+    <name>defiler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>19</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3920</attackAnim>
+    <defenceAnim>3921</defenceAnim>
+    <deathAnim>3922</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3769</id>
+    <name>defiler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>19</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3920</attackAnim>
+    <defenceAnim>3921</defenceAnim>
+    <deathAnim>3922</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3770</id>
+    <name>defiler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>19</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3920</attackAnim>
+    <defenceAnim>3921</defenceAnim>
+    <deathAnim>3922</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3771</id>
+    <name>defiler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>19</maxHit>
+    <attackSpeed>4</attackSpeed>
+    <attackAnim>3920</attackAnim>
+    <defenceAnim>3921</defenceAnim>
+    <deathAnim>3922</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3772</id>
+    <name>Brawler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>100</hitpoints>
+    <maxHit>20</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>3896</attackAnim>
+    <defenceAnim>3895</defenceAnim>
+    <deathAnim>3894</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3773</id>
+    <name>Brawler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>120</hitpoints>
+    <maxHit>22</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>3896</attackAnim>
+    <defenceAnim>3895</defenceAnim>
+    <deathAnim>3894</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3774</id>
+    <name>Brawler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>140</hitpoints>
+    <maxHit>24</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>3896</attackAnim>
+    <defenceAnim>3895</defenceAnim>
+    <deathAnim>3894</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3775</id>
+    <name>Brawler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>175</hitpoints>
+    <maxHit>27</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>3896</attackAnim>
+    <defenceAnim>3895</defenceAnim>
+    <deathAnim>3894</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3776</id>
+    <name>Brawler</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>99</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>30</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>3896</attackAnim>
+    <defenceAnim>3895</defenceAnim>
+    <deathAnim>3894</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3782</id>
+    <name>Void knight</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>0</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>0</maxHit>
+    <attackSpeed>0</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>3782</id>
+    <name>Void knight</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>5</respawn>
+    <combat>0</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>0</maxHit>
+    <attackSpeed>0</attackSpeed>
+    <attackAnim>-1</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6142</id>
+    <name>portal</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>300</respawn>
+    <combat>0</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>0</maxHit>
+    <attackSpeed>0</attackSpeed>
+    <attackAnim>3933</attackAnim>
+    <defenceAnim>3933</defenceAnim>
+    <deathAnim>3934</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6143</id>
+    <name>portal</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>300</respawn>
+    <combat>0</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>0</maxHit>
+    <attackSpeed>0</attackSpeed>
+    <attackAnim>3933</attackAnim>
+    <defenceAnim>3933</defenceAnim>
+    <deathAnim>3934</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6145</id>
+    <name>portal</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>300</respawn>
+    <combat>0</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>0</maxHit>
+    <attackSpeed>0</attackSpeed>
+    <attackAnim>3933</attackAnim>
+    <defenceAnim>3933</defenceAnim>
+    <deathAnim>3934</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>6144</id>
+    <name>portal</name>
+    <examine>They come in a wide variety of clothing.</examine>
+    <respawn>300</respawn>
+    <combat>0</combat>
+    <hitpoints>200</hitpoints>
+    <maxHit>0</maxHit>
+    <attackSpeed>0</attackSpeed>
+    <attackAnim>3933</attackAnim>
+    <defenceAnim>3933</defenceAnim>
+    <deathAnim>3934</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1472</id>
+    <name>jungle demon</name>
+    <examine>Run away!</examine>
+    <respawn>75</respawn>
+    <combat>209</combat>
+    <hitpoints>3000</hitpoints>
+    <maxHit>60</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>4680</attackAnim>
+    <defenceAnim>65</defenceAnim>
+    <deathAnim>4675</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8130</id>
+    <name>Spirit Beast</name>
+    <examine>Spirit Beast.</examine>
+    <respawn>5</respawn>
+    <combat>785</combat>
+    <hitpoints>500</hitpoints>
+    <maxHit>99</maxHit>
+    <attackSpeed>6</attackSpeed>
+    <attackAnim>10057</attackAnim>
+    <defenceAnim>10058</defenceAnim>
+    <deathAnim>10059</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>7136</id>
+    <name>Surok Magis</name>
+    <examine>Run away!</examine>
+    <respawn>30</respawn>
+    <combat>209</combat>
+    <hitpoints>500</hitpoints>
+    <maxHit>30</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>811</attackAnim>
+    <defenceAnim>-1</defenceAnim>
+    <deathAnim>-1</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>8501</id>
+    <name>turkey</name>
+    <examine>Run away!</examine>
+    <respawn>30</respawn>
+    <combat>209</combat>
+    <hitpoints>9999</hitpoints>
+    <maxHit>99</maxHit>
+    <attackSpeed>0</attackSpeed>
+    <attackAnim>11000</attackAnim>
+    <defenceAnim>10999</defenceAnim>
+    <deathAnim>11001</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1915</id>
+    <name>dessoue</name>
+    <examine>They come in a wide variety of pointy hats.</examine>
+    <respawn>60</respawn>
+    <combat>99</combat>
+    <hitpoints>2500</hitpoints>
+    <maxHit>60</maxHit>
+    <attackSpeed>10</attackSpeed>
+    <attackAnim>7001</attackAnim>
+    <defenceAnim>404</defenceAnim>
+    <deathAnim>7197</deathAnim>
+  </npcDefinition>
+	<npcDefinition>
+		<id>7891</id>
+		<name>melee dummy</name>
+		<combat>151</combat>
+		<hitpoints>999999999</hitpoints>
+		<maxHit>0</maxHit>
+		<attackSpeed>500000000</attackSpeed>
+		<attackAnim>-1</attackAnim>
+		<defenceAnim>-1</defenceAnim>
+		<deathAnim>-1</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>13481</id>
+		<name>Revenant Dragon</name>
+   		 <examine>pieces of shit.</examine>
+   		 <respawn>40</respawn>
+		<combat>230</combat>
+		<hitpoints>1000</hitpoints>
+		<maxHit>45</maxHit>
+		<attackSpeed>6</attackSpeed>
+		<attackAnim>14261</attackAnim>
+		<defenceAnim>14264</defenceAnim>
+		<deathAnim>14265</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>7084</id>
+		<name>ork statue</name>
+    		<examine>steroids much?</examine>
+    		<respawn>60</respawn>
+		<combat>230</combat>
+		<hitpoints>1500</hitpoints>
+		<maxHit>30</maxHit>
+		<attackSpeed>5</attackSpeed>
+		<attackAnim>11402</attackAnim>
+		<defenceAnim>11401</defenceAnim>
+		<deathAnim>11400</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>7085</id>
+		<name>ogre statue</name>
+    		<examine>steroids much?</examine>
+    		<respawn>75</respawn>
+		<combat>230</combat>
+		<hitpoints>2500</hitpoints>
+		<maxHit>30</maxHit>
+		<attackSpeed>5</attackSpeed>
+		<attackAnim>11416</attackAnim>
+		<defenceAnim>11417</defenceAnim>
+		<deathAnim>11418</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>7086</id>
+		<name>ourg statue</name>
+    		<examine>steroids much?</examine>
+    		<respawn>120</respawn>
+		<combat>230</combat>
+		<hitpoints>5000</hitpoints>
+		<maxHit>60</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>11408</attackAnim>
+		<defenceAnim>11409</defenceAnim>
+		<deathAnim>11410</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+    <id>3706</id>
+    <name>ulfric</name>
+    <examine>holy fuck its HIM</examine>
+    <respawn>90</respawn>
+    <combat>99</combat>
+    <hitpoints>4500</hitpoints>
+    <maxHit>25</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>6999</attackAnim>
+    <defenceAnim>7050</defenceAnim>
+    <deathAnim>7197</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+    <id>5219</id>
+    <name>penance fighter</name>
+    <examine>a follower of the penance queen</examine>
+    <respawn>60</respawn>
+    <combat>77</combat>
+    <hitpoints>250</hitpoints>
+    <maxHit>16</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>6999</attackAnim>
+    <defenceAnim>7050</defenceAnim>
+    <deathAnim>7197</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+    <id>5237</id>
+    <name>penance ranger</name>
+    <examine>a follower of the penance queen</examine>
+    <respawn>60</respawn>
+    <combat>72</combat>
+    <hitpoints>250</hitpoints>
+    <maxHit>16</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>6999</attackAnim>
+    <defenceAnim>7050</defenceAnim>
+    <deathAnim>7197</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>84</id>
+		<name>black demon</name>
+    		<examine>Big Black And Hard</examine>
+    		<respawn>90</respawn>
+		<combat>172</combat>
+		<hitpoints>500</hitpoints>
+		<maxHit>32</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>4680</attackAnim>
+		<defenceAnim>65</defenceAnim>
+		<deathAnim>4675</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+		<id>3064</id>
+		<name>Lesser Demon Champion</name>
+    		<examine>Big red And Hard</examine>
+    		<respawn>90</respawn>
+		<combat>169</combat>
+		<hitpoints>500</hitpoints>
+		<maxHit>32</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>4680</attackAnim>
+		<defenceAnim>65</defenceAnim>
+		<deathAnim>4675</deathAnim>
+	</npcDefinition>
+	<npcDefinition>
+	<id>1264</id>
+		<name>saradomin wizard</name>
+    		<examine>a wizard of saradomin</examine>
+    		<respawn>90</respawn>
+		<combat>108</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>16</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>1064</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+</npcDefinition>
+	<npcDefinition>
+	<id>6367</id>
+		<name>zamorak mage</name>
+    		<examine>a wizard of zamorak</examine>
+    		<respawn>90</respawn>
+		<combat>84</combat>
+		<hitpoints>250</hitpoints>
+		<maxHit>16</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>1064</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+</npcDefinition>
+	<npcDefinition>
+	<id>6363</id>
+	<name>zamorak warrior</name>
+	<combat>84</combat>
+	<hitpoints>150</hitpoints>
+	<maxHit>17</maxHit>
+	<attackSpeed>7</attackSpeed>
+	<attackAnim>411</attackAnim>
+	<defenceAnim>406</defenceAnim>
+	<deathAnim>836</deathAnim>
+</npcDefinition>
+	<npcDefinition>
+		<id>4698</id>
+		<name>Greater Demon</name>
+    		<examine>Big red And Hard</examine>
+    		<respawn>90</respawn>
+		<combat>92</combat>
+		<hitpoints>500</hitpoints>
+		<maxHit>22</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>4680</attackAnim>
+		<defenceAnim>65</defenceAnim>
+		<deathAnim>4675</deathAnim>
+</npcDefinition>
+<npcDefinition>
+    <id>795</id>
+    <name>ice queen</name>
+    <examine>what a bitch.</examine>
+    <respawn>50</respawn>
+    <combat>111</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>36</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>422</attackAnim>
+    <defenceAnim>404</defenceAnim>
+    <deathAnim>7197</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>1977</id>
+    <name>fareed</name>
+    <examine>what a bitch.</examine>
+    <respawn>50</respawn>
+    <combat>167</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>36</maxHit>
+    <attackSpeed>8</attackSpeed>
+    <attackAnim>422</attackAnim>
+    <defenceAnim>404</defenceAnim>
+    <deathAnim>7197</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+	<id>2710</id>
+		<name>water mage</name>
+    		<examine>a wizard of zamorak</examine>
+    		<respawn>90</respawn>
+		<combat>13</combat>
+		<hitpoints>100</hitpoints>
+		<maxHit>4</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>811</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>2709</id>
+		<name>fire mage</name>
+    		<examine>a wizard of fire</examine>
+    		<respawn>90</respawn>
+		<combat>13</combat>
+		<hitpoints>100</hitpoints>
+		<maxHit>4</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>811</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>3851</id>
+		<name>skeleton mage</name>
+    		<examine>a wizard of skeletons</examine>
+    		<respawn>90</respawn>
+		<combat>83</combat>
+		<hitpoints>150</hitpoints>
+		<maxHit>6</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>811</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>190</id>
+		<name>zamorak monk</name>
+    		<examine>a monk of zamorak</examine>
+    		<respawn>90</respawn>
+		<combat>42</combat>
+		<hitpoints>150</hitpoints>
+		<maxHit>6</maxHit>
+		<attackSpeed>7</attackSpeed>
+		<attackAnim>811</attackAnim>
+		<defenceAnim>404</defenceAnim>
+		<deathAnim>7197</deathAnim>
+</npcDefinition>
+<npcDefinition>
+		<id>3494</id>
+		<name>flambeed</name>
+    		<examine>steroids much?</examine>
+    		<respawn>60</respawn>
+		<combat>149</combat>
+		<hitpoints>500</hitpoints>
+		<maxHit>30</maxHit>
+		<attackSpeed>5</attackSpeed>
+		<attackAnim>11402</attackAnim>
+		<defenceAnim>11401</defenceAnim>
+		<deathAnim>11400</deathAnim>
+	</npcDefinition>
+<npcDefinition><id>6269</id>
+	<name>Cyclops</name>
+	<respawn>60</respawn>
+	<combat>81</combat>
+	<hitpoints>100</hitpoints>
+	<maxHit>8</maxHit>
+	<attackSpeed>7</attackSpeed>
+	<attackAnim>4651</attackAnim>
+	<defenceAnim>4652</defenceAnim>
+	<deathAnim>4653</deathAnim>
+</npcDefinition>
+<npcDefinition><id>6270</id>
+	<name>Cyclops</name>
+	<respawn>60</respawn>
+	<combat>81</combat>
+	<hitpoints>100</hitpoints>
+	<maxHit>8</maxHit>
+	<attackSpeed>7</attackSpeed>
+	<attackAnim>4651</attackAnim>
+	<defenceAnim>4652</defenceAnim>
+	<deathAnim>4653</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>4284</id>
+	<name>rune</name>
+	<respawn>60000</respawn>
+	<combat>84</combat>
+	<hitpoints>800</hitpoints>
+	<maxHit>24</maxHit>
+	<attackSpeed>7</attackSpeed>
+	<attackAnim>412</attackAnim>
+	<defenceAnim>425</defenceAnim>
+	<deathAnim>836</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>4283</id>
+	<name>addy</name>
+	<respawn>60000</respawn>
+	<combat>84</combat>
+	<hitpoints>650</hitpoints>
+	<maxHit>20</maxHit>
+	<attackSpeed>9</attackSpeed>
+	<attackAnim>407</attackAnim>
+	<defenceAnim>425</defenceAnim>
+	<deathAnim>836</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>4282</id>
+	<name>mith</name>
+	<respawn>60000</respawn>
+	<combat>84</combat>
+	<hitpoints>500</hitpoints>
+	<maxHit>18</maxHit>
+	<attackSpeed>7</attackSpeed>
+	<attackAnim>412</attackAnim>
+	<defenceAnim>425</defenceAnim>
+	<deathAnim>836</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>4281</id>
+	<name>black</name>
+	<respawn>0</respawn>
+	<combat>84</combat>
+	<hitpoints>400</hitpoints>
+	<maxHit>16</maxHit>
+	<attackSpeed>7</attackSpeed>
+	<attackAnim>412</attackAnim>
+	<defenceAnim>425</defenceAnim>
+	<deathAnim>836</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>4280</id>
+	<name>steel</name>
+	<respawn>0</respawn>
+	<combat>84</combat>
+	<hitpoints>300</hitpoints>
+	<maxHit>14</maxHit>
+	<attackSpeed>7</attackSpeed>
+	<attackAnim>412</attackAnim>
+	<defenceAnim>425</defenceAnim>
+	<deathAnim>836</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>4279</id>
+	<name>iron</name>
+	<respawn>0</respawn>
+	<combat>84</combat>
+	<hitpoints>200</hitpoints>
+	<maxHit>12</maxHit>
+	<attackSpeed>7</attackSpeed>
+	<attackAnim>412</attackAnim>
+	<defenceAnim>425</defenceAnim>
+	<deathAnim>836</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>4278</id>
+	<name>bronze</name>
+	<respawn>0</respawn>
+	<combat>84</combat>
+	<hitpoints>100</hitpoints>
+	<maxHit>10</maxHit>
+	<attackSpeed>7</attackSpeed>
+	<attackAnim>412</attackAnim>
+	<defenceAnim>425</defenceAnim>
+	<deathAnim>836</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>6682</id>
+	<name>revenant Icefiend</name>
+	<combat>45</combat>
+	<hitpoints>250</hitpoints>
+	<maxHit>12</maxHit>
+	<attackSpeed>9</attackSpeed>
+	<attackAnim>8082</attackAnim>
+	<defenceAnim>8080</defenceAnim>
+	<deathAnim>8078</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>5395</id>
+	<name>Zombie</name>
+	<combat>47</combat>
+	<respawn>30</respawn>
+	<hitpoints>250</hitpoints>
+	<maxHit>25</maxHit>
+	<attackSpeed>7</attackSpeed>
+    <attackAnim>5571</attackAnim>
+    <defenceAnim>403</defenceAnim>
+    <deathAnim>5575</deathAnim>
+</npcDefinition>
+<npcDefinition>
+	<id>757</id>
+	<name>Count Draynor</name>
+	<combat>34</combat>
+	<respawn>30</respawn>
+	<hitpoints>800</hitpoints>
+	<maxHit>55</maxHit>
+	<attackSpeed>9</attackSpeed>
+	<attackAnim>422</attackAnim>
+	<defenceAnim>424</defenceAnim>
+	<deathAnim>5572</deathAnim>
+</npcDefinition>
+<npcDefinition>
+    <id>3066</id>
+    <name>zombies champion</name>
+    <examine>lvl100</examine>
+    <respawn>35</respawn>
+    <combat>51</combat>
+    <hitpoints>300</hitpoints>
+    <maxHit>60</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>5571</attackAnim>
+    <defenceAnim>403</defenceAnim>
+    <deathAnim>5575</deathAnim>
+  </npcDefinition>
+
+<npcDefinition>
+    <id>1826</id>
+    <name>zombie</name>
+    <examine>lvl100</examine>
+    <respawn>35</respawn>
+    <combat>39</combat>
+    <hitpoints>150</hitpoints>
+    <maxHit>30</maxHit>
+    <attackSpeed>7</attackSpeed>
+    <attackAnim>5571</attackAnim>
+    <defenceAnim>403</defenceAnim>
+    <deathAnim>5575</deathAnim>
+  </npcDefinition>
+<npcDefinition>
+    <id>3375</id>
+    <name>Evil Chicken</name>
+    <examine>Mod berky was here</examine>
+    <respawn>15</respawn>
+    <combat>159</combat>
+    <hitpoints>50</hitpoints>
+    <maxHit>20</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>56</attackAnim>
+    <defenceAnim>55</defenceAnim>
+    <deathAnim>50</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>221</id>
+    <name>Black Knight Titan</name>
+    <examine>Mod berky was here</examine>
+    <respawn>15</respawn>
+    <combat>120</combat>
+    <hitpoints>2000</hitpoints>
+    <maxHit>99</maxHit>
+    <attackSpeed>1</attackSpeed>
+    <attackAnim>56</attackAnim>
+    <defenceAnim>55</defenceAnim>
+    <deathAnim>50</deathAnim>
+  </npcDefinition>
+  <npcDefinition>
+    <id>10141</id>
+    <name>Bal'lak the Pummeller</name>
+    <examine>Mod berky was here</examine>
+    <respawn>15</respawn>
+    <combat>543</combat>
+    <hitpoints>1000</hitpoints>
+    <maxHit>65</maxHit>
+    <attackSpeed>5</attackSpeed>
+    <attackAnim>13603</attackAnim>
+    <defenceAnim>13601</defenceAnim>
+    <deathAnim>13602</deathAnim>
+  </npcDefinition>
+</list>

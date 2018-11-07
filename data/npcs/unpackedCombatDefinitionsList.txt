@@ -1,0 +1,5 @@
+//npcId - hitpoints attackAnim defenceAnim deathAnim attackDelay deathDelay respawnDelay maxHit attackStyle attackGfx attackProjectile agressivenessType agroRatio
+//Imp - 2
+708 - 80 169 170 172 4 1 60 10 MELEE -1 -1 PASSIVE 0
+//Yak - 22
+5529 - 500 5782 5783 5784 7 1 60 20 MELEE -1 -1 PASSIVE 0
